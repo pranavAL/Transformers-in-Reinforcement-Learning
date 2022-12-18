@@ -32,6 +32,8 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning* [[Paper](https://openreview.net/forum?id=fy_XRVHqly)]
 * *Unsupervised Learning of Temporal Abstractions with Slot-based Transformers* [[Paper](https://arxiv.org/abs/2203.13573)]
 * *My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control* [[Paper](https://arxiv.org/abs/2010.01856)]
+* *Relational Reasoning via Set Transformers: Provable Efficiency and Applications to MARL* [[Paper](https://arxiv.org/abs/2209.09845)]
+
 
 
 
