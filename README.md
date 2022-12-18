@@ -14,3 +14,8 @@ The list of papers are divided into multiple categories as elaborated below taki
 - [Training Strategy](#training-strategy)
 - [Explainability](#explainability)
 - [Applications](#applications)
+
+---
+
+## Representation Learning
+* "StARformer: Transformer with State-Action-Reward Representations for Visual Reinforcement Learning". [[Paper](https://arxiv.org/pdf/2110.06206.pdf)]
