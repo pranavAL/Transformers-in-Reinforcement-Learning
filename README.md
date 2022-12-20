@@ -22,6 +22,7 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Combinatorial Optimization](#combinatorial-optimzation)
      * [Floorplanner](#floorplanner)
      * [Environment](#environment)
+     * [Scheduling](#scheduling)
 ---
 
 ## Representation Learning
@@ -188,8 +189,12 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Confidence Estimation Transformer for Long-term Renewable Energy Forecasting in Reinforcement Learning-based Power Grid Dispatching* [[Paper](https://arxiv.org/abs/2204.04612)]
 * *A Hybrid Data-Driven Method for Low-Carbon Economic Energy Management Strategy in Electricity-Gas Coupled Energy Systems Based on Transformer Network and Deep Reinforcement Learning* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4089060)]
 ---
-
+### Scheduling
 * *Transformer-Based Reinforcement Learning for Pickup and Delivery Problems With Late Penalties* [[Paper](https://ieeexplore.ieee.org/document/9847118)]
+* *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)]
+* *An End-to-End Deep Reinforcement Learning Approach for Job Shop Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9776116)]
+---
+
 
 * *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)]
 
@@ -202,7 +207,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 
 * *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)]
-* *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)]
+
 
 * *Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.11718)]
 
@@ -229,7 +234,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 * *Exploring reward efficacy in traffic management using deep reinforcement learning in intelligent transportation system* [[Paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0404)]
 * *AN RL APPROACH FOR ABSA USING TRANSFORMERS* [[Paper](https://ieeexplore.ieee.org/document/9776915)]
-* *An End-to-End Deep Reinforcement Learning Approach for Job Shop Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9776116)]
+
 
 
 * *A Distributed Vehicle-assisted Computation Offloading Scheme based on DRL in Vehicular Networks* [[Paper](https://ieeexplore.ieee.org/document/9826050)]
