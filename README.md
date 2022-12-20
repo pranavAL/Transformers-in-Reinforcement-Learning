@@ -19,7 +19,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 ## Representation Learning
 * *StARformer: Transformer with State-Action-Reward Representations for Visual Reinforcement Learning* [[Paper](https://arxiv.org/pdf/2110.06206.pdf)]
-* *TransNav: spatial sequential transformer network for visual navigation* [[Paper](https://academic.oup.com/jcde/article/9/5/1866/6679563)] 
 * *Multi-granularity scenarios understanding network for trajectory prediction* [[Paper](https://link.springer.com/article/10.1007/s40747-022-00834-2)]
 * *One for All: One-stage Referring Expression Comprehension with Dynamic Reasoning* [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222012899)]
 * *Relational Graph Reasoning Transformer for Image Captioning* [[Paper](https://ieeexplore.ieee.org/document/9859926)]
@@ -183,6 +182,8 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Boosting Search Engines with Interactive Agents* [[Paper](Boosting Search Engines with Interactive Agents)]
 * *Abstract LB151: Deep learning - based protein therapeutics design to treat HER2+ cancers* [[Paper](https://aacrjournals.org/cancerres/article/82/12_Supplement/LB151/701119/Abstract-LB151-Deep-learning-based-protein)]
 * *Neurosymbolic Learning for Robust and Reliable Intelligent Systems* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/143249/Inala-jinala-PhD-EECS-2022-thesis.pdf?sequence=1&isAllowed=y)]
+* *TransNav: spatial sequential transformer network for visual navigation* [[Paper](https://academic.oup.com/jcde/article/9/5/1866/6679563)] 
+
 
 
  
