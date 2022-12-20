@@ -93,6 +93,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *You Can't Count on Luck: Why Decision Transformers and RvS Fail in Stochastic Environments* [[Paper](https://arxiv.org/abs/2205.15967)]
 * *Deep Transformer Q-Networks for Partially Observable Reinforcement Learning* [[Paper](https://arxiv.org/abs/2206.01078)]
 * *CubeTR: Learning to Solve the Rubik's Cube using Transformers* [[Paper](https://openreview.net/forum?id=wGLGG4918oc)]
+* *FedFormer: Contextual Federation with Attention in Reinforcement Learning* [[Paper](FedFormer: Contextual Federation with Attention in Reinforcement Learning)]
 
 
 
@@ -170,6 +171,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Transformer with Prior Language Knowledge for Image Captioning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_4)]
 * *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)]
 * *Adversarial Conversational Shaping for Intelligent Agents* [[Paper](https://neurips2021-nlp.github.io/papers/13/CameraReady/ENLSP_final_submission.pdf)]
+* *AN RL APPROACH FOR ABSA USING TRANSFORMERS* [[Paper](https://ieeexplore.ieee.org/document/9776915)]
 
 
 
@@ -179,6 +181,8 @@ The list of papers are divided into multiple categories as elaborated below taki
 ### Edge and Cloud Computing
 * *Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds* [[Paper](https://ieeexplore.ieee.org/document/9878326)]
 * *Actor-Critic with Transformer for Cloud Computing Resource Three Stage Job Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9778883)]
+* *A Distributed Vehicle-assisted Computation Offloading Scheme based on DRL in Vehicular Networks* [[Paper](https://ieeexplore.ieee.org/document/9826050)]
+* *Exploring reward efficacy in traffic management using deep reinforcement learning in intelligent transportation system* [[Paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0404)]
 ---
 ### Routing
 * *A Deep Reinforcement Learning Algorithm Using A New Graph Transformer Model for Routing Problems* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16075-2_26)]
@@ -195,6 +199,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *A Hybrid Data-Driven Method for Low-Carbon Economic Energy Management Strategy in Electricity-Gas Coupled Energy Systems Based on Transformer Network and Deep Reinforcement Learning* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4089060)]
 * *Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer* [[Paper](https://arxiv.org/abs/2206.03721)]
 * *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)]
+* *Toward Smart Multizone HVAC Control by Combining Context-Aware System and Deep Reinforcement Learning* [[Paper](https://ieeexplore.ieee.org/document/9776508)]
 ---
 ### Scheduling
 * *Transformer-Based Reinforcement Learning for Pickup and Delivery Problems With Late Penalties* [[Paper](https://ieeexplore.ieee.org/document/9847118)]
@@ -207,6 +212,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Query-based summarization using reinforcement learning and transformer model* [[Paper](https://opus.uleth.ca/handle/10133/5664)]
 * *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)]
 * *Boosting Search Engines with Interactive Agents* [[Paper](Boosting Search Engines with Interactive Agents)]
+* *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)]
 ---
 ### Trading
 * *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)]
@@ -221,48 +227,35 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Simplifying Polylogarithms with Machine Learning* [[Paper](Simplifying Polylogarithms with Machine Learning
 )]
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* T3OMVP: A Transformer-Based Time and Team Reinforcement Learning Scheme for Observation-Constrained Multi-Vehicle Pursuit in Urban Area* [[Paper](https://www.mdpi.com/2079-9292/11/9/1339)]
-
-
-
-
-
-
-
-
-
-* *Decision Transformers for Glut Control in the Active Logic Machine* [[Paper](https://ceur-ws.org/Vol-3121/short5.pdf)]
-
-
-
-* *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)]
-
-* *Exploring reward efficacy in traffic management using deep reinforcement learning in intelligent transportation system* [[Paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0404)]
-* *AN RL APPROACH FOR ABSA USING TRANSFORMERS* [[Paper](https://ieeexplore.ieee.org/document/9776915)]
-
-
-
-* *A Distributed Vehicle-assisted Computation Offloading Scheme based on DRL in Vehicular Networks* [[Paper](https://ieeexplore.ieee.org/document/9826050)]
-* *Toward Smart Multizone HVAC Control by Combining Context-Aware System and Deep Reinforcement Learning* [[Paper](https://ieeexplore.ieee.org/document/9776508)]
-* *FedFormer: Contextual Federation with Attention in Reinforcement Learning* [[Paper](FedFormer: Contextual Federation with Attention in Reinforcement Learning)]
-
+### Hyperparameter Optimzation
 * *AME: Attention and Memory Enhancement in Hyper-Parameter Optimization* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)]
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
