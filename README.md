@@ -24,6 +24,8 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Environment](#environment)
      * [Scheduling](#scheduling)
      * [Query Optimization](#query-optimization)
+     * [Trading](#trading)
+     * [Anomaly Detection](#anomaly-detection)
 ---
 
 ## Representation Learning
@@ -90,6 +92,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *A Novel Deep Reinforcement Learning Based Stock Direction Prediction using Knowledge Graph and Community Aware Sentiments* [[Paper](https://arxiv.org/abs/2107.00931)]
 * *You Can't Count on Luck: Why Decision Transformers and RvS Fail in Stochastic Environments* [[Paper](https://arxiv.org/abs/2205.15967)]
 * *Deep Transformer Q-Networks for Partially Observable Reinforcement Learning* [[Paper](https://arxiv.org/abs/2206.01078)]
+* *CubeTR: Learning to Solve the Rubik's Cube using Transformers* [[Paper](https://openreview.net/forum?id=wGLGG4918oc)]
 
 
 
@@ -190,11 +193,14 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology* [[Paper](https://arxiv.org/abs/2203.13375)]
 * *Confidence Estimation Transformer for Long-term Renewable Energy Forecasting in Reinforcement Learning-based Power Grid Dispatching* [[Paper](https://arxiv.org/abs/2204.04612)]
 * *A Hybrid Data-Driven Method for Low-Carbon Economic Energy Management Strategy in Electricity-Gas Coupled Energy Systems Based on Transformer Network and Deep Reinforcement Learning* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4089060)]
+* *Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer* [[Paper](https://arxiv.org/abs/2206.03721)]
+* *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)]
 ---
 ### Scheduling
 * *Transformer-Based Reinforcement Learning for Pickup and Delivery Problems With Late Penalties* [[Paper](https://ieeexplore.ieee.org/document/9847118)]
 * *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)]
 * *An End-to-End Deep Reinforcement Learning Approach for Job Shop Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9776116)]
+* *A Deep Reinforcement Learning Framework Based on an Attention Mechanism and Disjunctive Graph Embedding for the Job-Shop Scheduling Problem* [[Paper](https://ieeexplore.ieee.org/document/9757835)] 
 ---
 ### Query Optimzation
 * *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)]
@@ -202,22 +208,32 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)]
 * *Boosting Search Engines with Interactive Agents* [[Paper](Boosting Search Engines with Interactive Agents)]
 ---
-
-
-
-* *Proving Theorems using Incremental Learning and Hindsight Experience Replay* [[Paper](https://arxiv.org/abs/2112.10664)]
-
-
-* *CubeTR: Learning to Solve the Rubik's Cube using Transformers* [[Paper](https://openreview.net/forum?id=wGLGG4918oc)]
-
-
-
+### Trading
 * *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)]
-
-
-* *Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.11718)]
-
+---
+### Anomaly Detection
 * *Transformer approaches on hyper-parameter optimization and anomaly detection with applications in stream tuning* [[Paper](https://dspace.uevora.pt/rdpc/handle/10174/31068)]
+---
+
+### Scientific Discovery
+* *Proving Theorems using Incremental Learning and Hindsight Experience Replay* [[Paper](https://arxiv.org/abs/2112.10664)]
+* *Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.11718)]
+* *Simplifying Polylogarithms with Machine Learning* [[Paper](Simplifying Polylogarithms with Machine Learning
+)]
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -227,11 +243,10 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 
 
-* *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)]
 
 
 
-* *A Deep Reinforcement Learning Framework Based on an Attention Mechanism and Disjunctive Graph Embedding for the Job-Shop Scheduling Problem* [[Paper](https://ieeexplore.ieee.org/document/9757835)] 
+
 * *Decision Transformers for Glut Control in the Active Logic Machine* [[Paper](https://ceur-ws.org/Vol-3121/short5.pdf)]
 
 
@@ -248,9 +263,8 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *FedFormer: Contextual Federation with Attention in Reinforcement Learning* [[Paper](FedFormer: Contextual Federation with Attention in Reinforcement Learning)]
 
 * *AME: Attention and Memory Enhancement in Hyper-Parameter Optimization* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)]
-* *Simplifying Polylogarithms with Machine Learning* [[Paper](Simplifying Polylogarithms with Machine Learning
-)]
-* *Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer* [[Paper](https://arxiv.org/abs/2206.03721)]
+
+
 
 
 
