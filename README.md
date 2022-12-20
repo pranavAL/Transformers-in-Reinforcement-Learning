@@ -15,8 +15,9 @@ The list of papers are divided into multiple categories as elaborated below taki
 - [Explainability](#explainability)
 - [Applications](#applications)
      * [Robotics](#robotics)
-     * [Autonomous Driving](#autonomous-driving)
-
+     * [Medical](#medical)
+     * [Text Audio and Vision](#text-audio-vision)
+     * [Edge and Cloud Computing](#edge-and-cloud-computing)
 ---
 
 ## Representation Learning
@@ -110,81 +111,120 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ## Applications
-* *RL Based Unsupervised Video Summarization Framework for Ultrasound Imaging* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16902-1_3)]
+### Robotics
 * *INTRAFORCE: Intra-Cluster Reinforced Social Transformer for Trajectory Prediction* [[Paper](https://ieeexplore.ieee.org/document/9941547)]
-* *Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds* [[Paper](https://ieeexplore.ieee.org/document/9878326)]
-* *Emotion Aware Reinforcement Network for Visual Storytelling* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_3)]
-* *A Deep Reinforcement Learning Algorithm Using A New Graph Transformer Model for Routing Problems* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16075-2_26)]
-* *Attention-Based Learning for Combinatorial Optimization* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)]
 * *Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving* [[Paper](https://arxiv.org/abs/2208.12263)]
-* *GenTUS: Simulating User Behaviour and Language in Task-oriented Dialogues with Generative Transformers* [[Paper](https://arxiv.org/abs/2208.10817)]
-* *Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding* [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539220)]
-* *Transformer-Based Reinforcement Learning for Pickup and Delivery Problems With Late Penalties* [[Paper](https://ieeexplore.ieee.org/document/9847118)]
+* *TransNav: spatial sequential transformer network for visual navigation* [[Paper](https://academic.oup.com/jcde/article/9/5/1866/6679563)] 
+* *Vision Transformer for Learning Driving Policies in Complex Multi-Agent Environments* [[Paper](https://arxiv.org/abs/2109.06514)]
+* *Object Memory Transformer for Object Goal Navigation* [[Paper](https://arxiv.org/abs/2203.14708)]
+* *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps* [[Paper](https://arxiv.org/abs/2203.16910)]
+
+---
+### Medical
+* *RL Based Unsupervised Video Summarization Framework for Ultrasound Imaging* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16902-1_3)]
 * *SIG-Former: monocular surgical instruction generation with transformers* [[Paper](https://link.springer.com/article/10.1007/s11548-022-02718-9)]
 * *Transformer-based Objective-reinforced Generative Adversarial Network to Generate Desired Molecules* [[Paper](https://www.ijcai.org/proceedings/2022/539)]
-* *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)]
+* *Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning* [[Paper](https://www.nature.com/articles/s42256-021-00403-1)]
+* *Abstract LB151: Deep learning - based protein therapeutics design to treat HER2+ cancers* [[Paper](https://aacrjournals.org/cancerres/article/82/12_Supplement/LB151/701119/Abstract-LB151-Deep-learning-based-protein)]
+* *DrugEx v3: Scaffold-Constrained Drug Design with Graph Transformer-based Reinforcement Learning* [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/61aa8b58bc299c0b30887f80)]
+* *DxFormer: A Decoupled Automatic Diagnostic System Based on Decoder-Encoder Transformer with Dense Symptom Representations* [[Paper](https://arxiv.org/pdf/2205.03755.pdf)]
+
+
+
+---
+### Text Audio and Vision
+* *Emotion Aware Reinforcement Network for Visual Storytelling* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_3)]
+* *GenTUS: Simulating User Behaviour and Language in Task-oriented Dialogues with Generative Transformers* [[Paper](https://arxiv.org/abs/2208.10817)]
 * *Towards Reinforcement Learning for Pivot-based Neural Machine Translation with Non-autoregressive Transformer* [[Paper](https://arxiv.org/abs/2109.13097)]
 * *Selective Token Generation for Few-shot Natural Language Generation* [[Paper](https://aclanthology.org/2022.coling-1.510.pdf)]
-* *Proving Theorems using Incremental Learning and Hindsight Experience Replay* [[Paper](https://arxiv.org/abs/2112.10664)]
-* *Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning* [[Paper](https://www.nature.com/articles/s42256-021-00403-1)]
+* *Efficient Unsupervised Sentence Compression by Fine-tuning Transformers with Reinforcement Learning* [[Paper](https://arxiv.org/abs/2205.08221)]
+* *History Compression via Language Models in Reinforcement Learning* [[Paper](https://proceedings.mlr.press/v162/paischer22a.html)]
+* *Meta Policy Learning for Cold-Start Conversational Recommendation* [[Paper](https://arxiv.org/abs/2205.11788)]
+* *Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness* [[Paper](https://aclanthology.org/2022.naacl-main.120/)]
 * *Audio Embeddings Help to Learn Better Dialogue Policies* [[Paper](https://ieeexplore.ieee.org/document/9688296)]
 * *Corrective Guidance and Learning for Dialogue Management* [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482333)]
+* *Active Audio-Visual Separation of Dynamic Sound Sources* [[Paper](https://arxiv.org/abs/2202.00850)]
+* *TF-SOD: a novel transformer framework for salient object detection* [[Paper](https://link.springer.com/article/10.1007/s00521-022-07069-9)]
+* *SILVER-BULLET-3D AT MANISKILL 2021: LEARNING-FROM-DEMONSTRATIONS AND HEURISTIC RULE-BASED METHODS FOR OBJECT MANIPULATION* [[Paper](https://openreview.net/pdf?id=rNhxaETVybc)]
+* *REMOTE: Reinforced Motion Transformation Network for Semi-supervised 2D Pose Estimation in Videos* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20089/version/18386/19848)]
+* *Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning* [[Paper](https://arxiv.org/abs/2112.08593)]
+* *Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory* [[Paper](https://arxiv.org/abs/2203.13055)]
+* *FCSF-TABS: two-stage abstractive summarization with fact-aware reinforced content selection and fusion* [[Paper](https://link.springer.com/article/10.1007/s00521-021-06880-0)]
+* *RLAS-BIABC: A Reinforcement Learning-Based Answer Selection Using the BERT Model Boosted by an Improved ABC Algorithm* [[Paper](https://dl.acm.org/doi/abs/10.1155/2022/7839840)]
+* *Reward Modeling for Mitigating Toxicity in Transformer-based Language Models* [[Paper](https://arxiv.org/abs/2202.09662)]
+* *Multi-Modal Instruction based Reinforcement Learning using MoME Transformer* [[Paper](https://www.techrxiv.org/articles/preprint/Multi-Modal_Instruction_based_Reinforcement_Learning_using_MoME_Transformer/19566040)]
+* *Transformer with Prior Language Knowledge for Image Captioning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_4)]
+
+
+
+
+
+---
+### Edge and Cloud Computing
+* *Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds* [[Paper](https://ieeexplore.ieee.org/document/9878326)]
+* *Actor-Critic with Transformer for Cloud Computing Resource Three Stage Job Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9778883)]
+---
+
+
+
+* *A Deep Reinforcement Learning Algorithm Using A New Graph Transformer Model for Routing Problems* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16075-2_26)]
+* *Attention-Based Learning for Combinatorial Optimization* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)]
+
+* *Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding* [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539220)]
+* *Transformer-Based Reinforcement Learning for Pickup and Delivery Problems With Late Penalties* [[Paper](https://ieeexplore.ieee.org/document/9847118)]
+
+* *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)]
+
+
+* *Proving Theorems using Incremental Learning and Hindsight Experience Replay* [[Paper](https://arxiv.org/abs/2112.10664)]
+
 * *Query-based summarization using reinforcement learning and transformer model* [[Paper](https://opus.uleth.ca/handle/10133/5664)]
 * *CubeTR: Learning to Solve the Rubik's Cube using Transformers* [[Paper](https://openreview.net/forum?id=wGLGG4918oc)]
 * *Deep Reinforcement Learning and Docking Simulations for autonomous molecule generation in de novo Drug Design* [[Paper](https://dl.acm.org/doi/10.1145/3469877.3497694)]
 * *Transformer-Based Generative Model Accelerating the Development of Novel BRAF Inhibitors* [[Paper](https://pubs.acs.org/doi/10.1021/acsomega.1c05145)]
-* *DrugEx v3: Scaffold-Constrained Drug Design with Graph Transformer-based Reinforcement Learning* [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/61aa8b58bc299c0b30887f80)]
-* *Transformer with Prior Language Knowledge for Image Captioning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_4)]
+
 * *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)]
 * *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)]
 * *Adversarial Conversational Shaping for Intelligent Agents* [[Paper](https://neurips2021-nlp.github.io/papers/13/CameraReady/ENLSP_final_submission.pdf)]
 * *Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.11718)]
-* *Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning* [[Paper](https://arxiv.org/abs/2112.08593)]
+
 * *Transformer approaches on hyper-parameter optimization and anomaly detection with applications in stream tuning* [[Paper](https://dspace.uevora.pt/rdpc/handle/10174/31068)]
-* *FCSF-TABS: two-stage abstractive summarization with fact-aware reinforced content selection and fusion* [[Paper](https://link.springer.com/article/10.1007/s00521-021-06880-0)]
-* *Active Audio-Visual Separation of Dynamic Sound Sources* [[Paper](https://arxiv.org/abs/2202.00850)]
-* *Reward Modeling for Mitigating Toxicity in Transformer-based Language Models* [[Paper](https://arxiv.org/abs/2202.09662)]
-* *TF-SOD: a novel transformer framework for salient object detection* [[Paper](https://link.springer.com/article/10.1007/s00521-022-07069-9)]
-* *SILVER-BULLET-3D AT MANISKILL 2021: LEARNING-FROM-DEMONSTRATIONS AND HEURISTIC RULE-BASED METHODS FOR OBJECT MANIPULATION* [[Paper](https://openreview.net/pdf?id=rNhxaETVybc)]
-* *REMOTE: Reinforced Motion Transformation Network for Semi-supervised 2D Pose Estimation in Videos* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20089/version/18386/19848)]
+
+
+
 * T3OMVP: A Transformer-Based Time and Team Reinforcement Learning Scheme for Observation-Constrained Multi-Vehicle Pursuit in Urban Area* [[Paper](https://www.mdpi.com/2079-9292/11/9/1339)]
 * Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework* [[Paper](https://arxiv.org/abs/2203.05756)]
-* *Object Memory Transformer for Object Goal Navigation* [[Paper](https://arxiv.org/abs/2203.14708)]
+
 * *Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology* [[Paper](https://arxiv.org/abs/2203.13375)]
-* *Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory* [[Paper](https://arxiv.org/abs/2203.13055)]
+
 * *Confidence Estimation Transformer for Long-term Renewable Energy Forecasting in Reinforcement Learning-based Power Grid Dispatching* [[Paper](https://arxiv.org/abs/2204.04612)]
 * *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)]
 * *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)]
-* *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps* [[Paper](https://arxiv.org/abs/2203.16910)]
+
 * *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)]
 * *A Deep Reinforcement Learning Framework Based on an Attention Mechanism and Disjunctive Graph Embedding for the Job-Shop Scheduling Problem* [[Paper](https://ieeexplore.ieee.org/document/9757835)] 
 * *Decision Transformers for Glut Control in the Active Logic Machine* [[Paper](https://ceur-ws.org/Vol-3121/short5.pdf)]
 * *Reinforced Structured State-Evolution for Vision-Language Navigation* [[Paper](https://arxiv.org/pdf/2204.09280.pdf)]
 * *A Hybrid Data-Driven Method for Low-Carbon Economic Energy Management Strategy in Electricity-Gas Coupled Energy Systems Based on Transformer Network and Deep Reinforcement Learning* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4089060)]
-* *Multi-Modal Instruction based Reinforcement Learning using MoME Transformer* [[Paper](https://www.techrxiv.org/articles/preprint/Multi-Modal_Instruction_based_Reinforcement_Learning_using_MoME_Transformer/19566040)]
-* *Actor-Critic with Transformer for Cloud Computing Resource Three Stage Job Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9778883)]
+
 * *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)]
-* *RLAS-BIABC: A Reinforcement Learning-Based Answer Selection Using the BERT Model Boosted by an Improved ABC Algorithm* [[Paper](https://dl.acm.org/doi/abs/10.1155/2022/7839840)]
+
 * *Exploring reward efficacy in traffic management using deep reinforcement learning in intelligent transportation system* [[Paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0404)]
 * *AN RL APPROACH FOR ABSA USING TRANSFORMERS* [[Paper](https://ieeexplore.ieee.org/document/9776915)]
 * *An End-to-End Deep Reinforcement Learning Approach for Job Shop Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9776116)]
-* *Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness* [[Paper](https://aclanthology.org/2022.naacl-main.120/)]
-* *DxFormer: A Decoupled Automatic Diagnostic System Based on Decoder-Encoder Transformer with Dense Symptom Representations* [[Paper](https://arxiv.org/pdf/2205.03755.pdf)]
+
+
 * *A Distributed Vehicle-assisted Computation Offloading Scheme based on DRL in Vehicular Networks* [[Paper](https://ieeexplore.ieee.org/document/9826050)]
 * *Toward Smart Multizone HVAC Control by Combining Context-Aware System and Deep Reinforcement Learning* [[Paper](https://ieeexplore.ieee.org/document/9776508)]
-* *Efficient Unsupervised Sentence Compression by Fine-tuning Transformers with Reinforcement Learning* [[Paper](https://arxiv.org/abs/2205.08221)]
-* *History Compression via Language Models in Reinforcement Learning* [[Paper](https://proceedings.mlr.press/v162/paischer22a.html)]
-* *Meta Policy Learning for Cold-Start Conversational Recommendation* [[Paper](https://arxiv.org/abs/2205.11788)]
 * *FedFormer: Contextual Federation with Attention in Reinforcement Learning* [[Paper](FedFormer: Contextual Federation with Attention in Reinforcement Learning)]
-* *Vision Transformer for Learning Driving Policies in Complex Multi-Agent Environments* [[Paper](https://arxiv.org/abs/2109.06514)]
+
 * *AME: Attention and Memory Enhancement in Hyper-Parameter Optimization* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)]
 * *Simplifying Polylogarithms with Machine Learning* [[Paper](Simplifying Polylogarithms with Machine Learning
 )]
 * *Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer* [[Paper](https://arxiv.org/abs/2206.03721)]
 * *Boosting Search Engines with Interactive Agents* [[Paper](Boosting Search Engines with Interactive Agents)]
-* *Abstract LB151: Deep learning - based protein therapeutics design to treat HER2+ cancers* [[Paper](https://aacrjournals.org/cancerres/article/82/12_Supplement/LB151/701119/Abstract-LB151-Deep-learning-based-protein)]
 * *Neurosymbolic Learning for Robust and Reliable Intelligent Systems* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/143249/Inala-jinala-PhD-EECS-2022-thesis.pdf?sequence=1&isAllowed=y)]
-* *TransNav: spatial sequential transformer network for visual navigation* [[Paper](https://academic.oup.com/jcde/article/9/5/1866/6679563)] 
+
 
 
 
