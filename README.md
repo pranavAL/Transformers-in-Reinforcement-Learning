@@ -18,6 +18,10 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Medical](#medical)
      * [Text Audio and Vision](#text-audio-vision)
      * [Edge and Cloud Computing](#edge-and-cloud-computing)
+     * [Routing](#routing)
+     * [Combinatorial Optimization](#combinatorial-optimzation)
+     * [Floorplanner](#floorplanner)
+     * [Environment](#environment)
 ---
 
 ## Representation Learning
@@ -159,6 +163,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Multi-Modal Instruction based Reinforcement Learning using MoME Transformer* [[Paper](https://www.techrxiv.org/articles/preprint/Multi-Modal_Instruction_based_Reinforcement_Learning_using_MoME_Transformer/19566040)]
 * *Transformer with Prior Language Knowledge for Image Captioning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_4)]
 * *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)]
+* *Adversarial Conversational Shaping for Intelligent Agents* [[Paper](https://neurips2021-nlp.github.io/papers/13/CameraReady/ENLSP_final_submission.pdf)]
 
 
 
@@ -169,13 +174,21 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds* [[Paper](https://ieeexplore.ieee.org/document/9878326)]
 * *Actor-Critic with Transformer for Cloud Computing Resource Three Stage Job Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9778883)]
 ---
-
-
-
+### Routing
 * *A Deep Reinforcement Learning Algorithm Using A New Graph Transformer Model for Routing Problems* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16075-2_26)]
+---
+### Combinatorial Optimzation
 * *Attention-Based Learning for Combinatorial Optimization* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)]
-
+---
+### Floorplanner
 * *Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding* [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539220)]
+---
+### Environment
+* *Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology* [[Paper](https://arxiv.org/abs/2203.13375)]
+* *Confidence Estimation Transformer for Long-term Renewable Energy Forecasting in Reinforcement Learning-based Power Grid Dispatching* [[Paper](https://arxiv.org/abs/2204.04612)]
+* *A Hybrid Data-Driven Method for Low-Carbon Economic Energy Management Strategy in Electricity-Gas Coupled Energy Systems Based on Transformer Network and Deep Reinforcement Learning* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4089060)]
+
+
 * *Transformer-Based Reinforcement Learning for Pickup and Delivery Problems With Late Penalties* [[Paper](https://ieeexplore.ieee.org/document/9847118)]
 
 * *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)]
@@ -190,7 +203,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 * *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)]
 * *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)]
-* *Adversarial Conversational Shaping for Intelligent Agents* [[Paper](https://neurips2021-nlp.github.io/papers/13/CameraReady/ENLSP_final_submission.pdf)]
+
 * *Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.11718)]
 
 * *Transformer approaches on hyper-parameter optimization and anomaly detection with applications in stream tuning* [[Paper](https://dspace.uevora.pt/rdpc/handle/10174/31068)]
@@ -200,9 +213,9 @@ The list of papers are divided into multiple categories as elaborated below taki
 * T3OMVP: A Transformer-Based Time and Team Reinforcement Learning Scheme for Observation-Constrained Multi-Vehicle Pursuit in Urban Area* [[Paper](https://www.mdpi.com/2079-9292/11/9/1339)]
 
 
-* *Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology* [[Paper](https://arxiv.org/abs/2203.13375)]
 
-* *Confidence Estimation Transformer for Long-term Renewable Energy Forecasting in Reinforcement Learning-based Power Grid Dispatching* [[Paper](https://arxiv.org/abs/2204.04612)]
+
+
 * *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)]
 * *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)]
 
@@ -210,7 +223,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *A Deep Reinforcement Learning Framework Based on an Attention Mechanism and Disjunctive Graph Embedding for the Job-Shop Scheduling Problem* [[Paper](https://ieeexplore.ieee.org/document/9757835)] 
 * *Decision Transformers for Glut Control in the Active Logic Machine* [[Paper](https://ceur-ws.org/Vol-3121/short5.pdf)]
 
-* *A Hybrid Data-Driven Method for Low-Carbon Economic Energy Management Strategy in Electricity-Gas Coupled Energy Systems Based on Transformer Network and Deep Reinforcement Learning* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4089060)]
+
 
 * *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)]
 
