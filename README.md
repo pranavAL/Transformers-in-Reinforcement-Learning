@@ -118,6 +118,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Vision Transformer for Learning Driving Policies in Complex Multi-Agent Environments* [[Paper](https://arxiv.org/abs/2109.06514)]
 * *Object Memory Transformer for Object Goal Navigation* [[Paper](https://arxiv.org/abs/2203.14708)]
 * *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps* [[Paper](https://arxiv.org/abs/2203.16910)]
+* *Reinforced Structured State-Evolution for Vision-Language Navigation* [[Paper](https://arxiv.org/pdf/2204.09280.pdf)]
 
 ---
 ### Medical
@@ -128,6 +129,9 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Abstract LB151: Deep learning - based protein therapeutics design to treat HER2+ cancers* [[Paper](https://aacrjournals.org/cancerres/article/82/12_Supplement/LB151/701119/Abstract-LB151-Deep-learning-based-protein)]
 * *DrugEx v3: Scaffold-Constrained Drug Design with Graph Transformer-based Reinforcement Learning* [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/61aa8b58bc299c0b30887f80)]
 * *DxFormer: A Decoupled Automatic Diagnostic System Based on Decoder-Encoder Transformer with Dense Symptom Representations* [[Paper](https://arxiv.org/pdf/2205.03755.pdf)]
+* * Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework* [[Paper](https://arxiv.org/abs/2203.05756)]
+* *Deep Reinforcement Learning and Docking Simulations for autonomous molecule generation in de novo Drug Design* [[Paper](https://dl.acm.org/doi/10.1145/3469877.3497694)]
+* *Transformer-Based Generative Model Accelerating the Development of Novel BRAF Inhibitors* [[Paper](https://pubs.acs.org/doi/10.1021/acsomega.1c05145)]
 
 
 
@@ -154,6 +158,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Reward Modeling for Mitigating Toxicity in Transformer-based Language Models* [[Paper](https://arxiv.org/abs/2202.09662)]
 * *Multi-Modal Instruction based Reinforcement Learning using MoME Transformer* [[Paper](https://www.techrxiv.org/articles/preprint/Multi-Modal_Instruction_based_Reinforcement_Learning_using_MoME_Transformer/19566040)]
 * *Transformer with Prior Language Knowledge for Image Captioning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_4)]
+* *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)]
 
 
 
@@ -180,8 +185,8 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 * *Query-based summarization using reinforcement learning and transformer model* [[Paper](https://opus.uleth.ca/handle/10133/5664)]
 * *CubeTR: Learning to Solve the Rubik's Cube using Transformers* [[Paper](https://openreview.net/forum?id=wGLGG4918oc)]
-* *Deep Reinforcement Learning and Docking Simulations for autonomous molecule generation in de novo Drug Design* [[Paper](https://dl.acm.org/doi/10.1145/3469877.3497694)]
-* *Transformer-Based Generative Model Accelerating the Development of Novel BRAF Inhibitors* [[Paper](https://pubs.acs.org/doi/10.1021/acsomega.1c05145)]
+
+
 
 * *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)]
 * *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)]
@@ -193,7 +198,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 
 * T3OMVP: A Transformer-Based Time and Team Reinforcement Learning Scheme for Observation-Constrained Multi-Vehicle Pursuit in Urban Area* [[Paper](https://www.mdpi.com/2079-9292/11/9/1339)]
-* Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework* [[Paper](https://arxiv.org/abs/2203.05756)]
+
 
 * *Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology* [[Paper](https://arxiv.org/abs/2203.13375)]
 
@@ -201,10 +206,10 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)]
 * *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)]
 
-* *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)]
+
 * *A Deep Reinforcement Learning Framework Based on an Attention Mechanism and Disjunctive Graph Embedding for the Job-Shop Scheduling Problem* [[Paper](https://ieeexplore.ieee.org/document/9757835)] 
 * *Decision Transformers for Glut Control in the Active Logic Machine* [[Paper](https://ceur-ws.org/Vol-3121/short5.pdf)]
-* *Reinforced Structured State-Evolution for Vision-Language Navigation* [[Paper](https://arxiv.org/pdf/2204.09280.pdf)]
+
 * *A Hybrid Data-Driven Method for Low-Carbon Economic Energy Management Strategy in Electricity-Gas Coupled Energy Systems Based on Transformer Network and Deep Reinforcement Learning* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4089060)]
 
 * *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)]
