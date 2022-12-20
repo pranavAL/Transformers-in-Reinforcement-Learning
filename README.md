@@ -23,6 +23,7 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Floorplanner](#floorplanner)
      * [Environment](#environment)
      * [Scheduling](#scheduling)
+     * [Query Optimization](#query-optimization)
 ---
 
 ## Representation Learning
@@ -124,6 +125,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Object Memory Transformer for Object Goal Navigation* [[Paper](https://arxiv.org/abs/2203.14708)]
 * *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps* [[Paper](https://arxiv.org/abs/2203.16910)]
 * *Reinforced Structured State-Evolution for Vision-Language Navigation* [[Paper](https://arxiv.org/pdf/2204.09280.pdf)]
+* *Neurosymbolic Learning for Robust and Reliable Intelligent Systems* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/143249/Inala-jinala-PhD-EECS-2022-thesis.pdf?sequence=1&isAllowed=y)]
 
 ---
 ### Medical
@@ -194,14 +196,18 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)]
 * *An End-to-End Deep Reinforcement Learning Approach for Job Shop Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9776116)]
 ---
-
-
+### Query Optimzation
 * *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)]
+* *Query-based summarization using reinforcement learning and transformer model* [[Paper](https://opus.uleth.ca/handle/10133/5664)]
+* *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)]
+* *Boosting Search Engines with Interactive Agents* [[Paper](Boosting Search Engines with Interactive Agents)]
+---
+
 
 
 * *Proving Theorems using Incremental Learning and Hindsight Experience Replay* [[Paper](https://arxiv.org/abs/2112.10664)]
 
-* *Query-based summarization using reinforcement learning and transformer model* [[Paper](https://opus.uleth.ca/handle/10133/5664)]
+
 * *CubeTR: Learning to Solve the Rubik's Cube using Transformers* [[Paper](https://openreview.net/forum?id=wGLGG4918oc)]
 
 
@@ -222,7 +228,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 
 * *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)]
-* *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)]
+
 
 
 * *A Deep Reinforcement Learning Framework Based on an Attention Mechanism and Disjunctive Graph Embedding for the Job-Shop Scheduling Problem* [[Paper](https://ieeexplore.ieee.org/document/9757835)] 
@@ -245,8 +251,8 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Simplifying Polylogarithms with Machine Learning* [[Paper](Simplifying Polylogarithms with Machine Learning
 )]
 * *Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer* [[Paper](https://arxiv.org/abs/2206.03721)]
-* *Boosting Search Engines with Interactive Agents* [[Paper](Boosting Search Engines with Interactive Agents)]
-* *Neurosymbolic Learning for Robust and Reliable Intelligent Systems* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/143249/Inala-jinala-PhD-EECS-2022-thesis.pdf?sequence=1&isAllowed=y)]
+
+
 
 
 
