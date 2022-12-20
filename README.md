@@ -133,7 +133,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Abstract LB151: Deep learning - based protein therapeutics design to treat HER2+ cancers* [[Paper](https://aacrjournals.org/cancerres/article/82/12_Supplement/LB151/701119/Abstract-LB151-Deep-learning-based-protein)]
 * *DrugEx v3: Scaffold-Constrained Drug Design with Graph Transformer-based Reinforcement Learning* [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/61aa8b58bc299c0b30887f80)]
 * *DxFormer: A Decoupled Automatic Diagnostic System Based on Decoder-Encoder Transformer with Dense Symptom Representations* [[Paper](https://arxiv.org/pdf/2205.03755.pdf)]
-* * Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework* [[Paper](https://arxiv.org/abs/2203.05756)]
+* *Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework* [[Paper](https://arxiv.org/abs/2203.05756)]
 * *Deep Reinforcement Learning and Docking Simulations for autonomous molecule generation in de novo Drug Design* [[Paper](https://dl.acm.org/doi/10.1145/3469877.3497694)]
 * *Transformer-Based Generative Model Accelerating the Development of Novel BRAF Inhibitors* [[Paper](https://pubs.acs.org/doi/10.1021/acsomega.1c05145)]
 
