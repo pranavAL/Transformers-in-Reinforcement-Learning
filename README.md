@@ -227,7 +227,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Proving Theorems using Incremental Learning and Hindsight Experience Replay* [[Paper](https://arxiv.org/abs/2112.10664)]
 * *Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.11718)]
 * *Simplifying Polylogarithms with Machine Learning* [[Paper](https://arxiv.org/abs/2206.04115)
-)]
+]
 ---
 ### Hyperparameter Optimzation
 * *AME: Attention and Memory Enhancement in Hyper-Parameter Optimization* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)]
