@@ -14,6 +14,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 - [Training Strategy](#training-strategy)
 - [Explainability](#explainability)
 - [Applications](#applications)
+     * Robotics
 
 ---
 
