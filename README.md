@@ -26,6 +26,8 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Query Optimization](#query-optimization)
      * [Trading](#trading)
      * [Anomaly Detection](#anomaly-detection)
+     * [Scientific Discovery](#scientific-discovery)
+     * [Hyperparameter Optimzation](#hyperparameter-optimzation)
 ---
 
 ## Representation Learning
