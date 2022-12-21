@@ -219,7 +219,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 ### Trading
 * *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)] ***02 Dec 2021***
 
-    Shaobo Hu1, Hongying Zheng2, and Jianyong Chen
+    Shaobo Hu, Hongying Zheng, and Jianyong Chen
 ---
 ### Anomaly Detection
 * *Transformer approaches on hyper-parameter optimization and anomaly detection with applications in stream tuning* [[Paper](https://dspace.uevora.pt/rdpc/handle/10174/31068)]
