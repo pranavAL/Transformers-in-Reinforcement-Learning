@@ -217,6 +217,10 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)]
 ---
 ### Trading
+* *Relation-Aware Transformer for Portfolio Policy Learning* [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3492081)] ***July 2020***
+   
+   Ke Xu1, Yifan Zhang1, Deheng Ye, Peilin Zhao, Mingkui Tan
+
 * *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)] ***02 Dec 2021***
 
     Shaobo Hu, Hongying Zheng, and Jianyong Chen
