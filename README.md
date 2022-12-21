@@ -221,7 +221,7 @@ The list of papers are divided into multiple categories as elaborated below taki
    
    Ke Xu1, Yifan Zhang1, Deheng Ye, Peilin Zhao, Mingkui Tan
 
-* *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)] ***02 Dec 2021***
+* *A Novel Deep Reinforcement Learning Framework for Stock Portfolio Optimization* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92307-5_24)] ***Dec 2021***
 
     Shaobo Hu, Hongying Zheng, and Jianyong Chen
 ---
@@ -236,7 +236,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 ]
 ---
 ### Hyperparameter Optimzation
-* *AME: Attention and Memory Enhancement in Hyper-Parameter Optimization* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)] ***18 June 2022***
+* *AME: Attention and Memory Enhancement in Hyper-Parameter Optimization* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)] ***June 2022***
 
     Nuo Xua, Jianlong Chang, Xing Nie, Chunlei Huo, Shiming Xiang and Chunhong Pan
 
