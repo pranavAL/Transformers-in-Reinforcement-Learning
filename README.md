@@ -231,6 +231,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 ### Hyperparameter Optimzation
 * *AME: Attention and Memory Enhancement in Hyper-Parameter Optimization* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)] ***18 June 2022***
+
 Nuo Xua, Jianlong Chang, Xing Nie, Chunlei Huo, Shiming Xiang and Chunhong Pan
 
 ---
