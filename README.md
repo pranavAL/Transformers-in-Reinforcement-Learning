@@ -184,10 +184,19 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 ---
 ### Edge and Cloud Computing
-* *Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds* [[Paper](https://ieeexplore.ieee.org/document/9878326)]
-* *Actor-Critic with Transformer for Cloud Computing Resource Three Stage Job Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9778883)]
-* *A Distributed Vehicle-assisted Computation Offloading Scheme based on DRL in Vehicular Networks* [[Paper](https://ieeexplore.ieee.org/document/9826050)]
-* *Exploring reward efficacy in traffic management using deep reinforcement learning in intelligent transportation system* [[Paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0404)]
+* *Exploring reward efficacy in traffic management using deep reinforcement learning in intelligent transportation system* [[Paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0404)] ***April 2022***
+
+   Ananya Paul, Sulata Mitra 
+* *A Distributed Vehicle-assisted Computation Offloading Scheme based on DRL in Vehicular Networks* [[Paper](https://ieeexplore.ieee.org/document/9826050)] ***July 2022***
+
+   Jiayue Wang, Hongbo Zhao, Haoqiang Liu, Liwei Geng, Zebin Sun 
+* *Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds* [[Paper](https://ieeexplore.ieee.org/document/9878326)] ***Sept 2022***
+
+   Adil Bin Bhutto, Xuan Son Vu, Erik Elmroth, Wee Peng Tay, Monowar Bhuyan 
+* *Actor-Critic with Transformer for Cloud Computing Resource Three Stage Job Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9778883)] ***Sept 2022***
+
+   Yanbo Xu, Jiakun Zhao 
+
 ---
 ### Routing
 * *A Deep Reinforcement Learning Algorithm Using A New Graph Transformer Model for Routing Problems* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16075-2_26)]
