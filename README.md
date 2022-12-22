@@ -165,7 +165,10 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *SILVER-BULLET-3D AT MANISKILL 2021: LEARNING-FROM-DEMONSTRATIONS AND HEURISTIC RULE-BASED METHODS FOR OBJECT MANIPULATION* [[Paper](https://openreview.net/pdf?id=rNhxaETVybc)]
 * *REMOTE: Reinforced Motion Transformation Network for Semi-supervised 2D Pose Estimation in Videos* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20089/version/18386/19848)]
 * *Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning* [[Paper](https://arxiv.org/abs/2112.08593)]
-* *Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory* [[Paper](https://arxiv.org/abs/2203.13055)]
+* *Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory* [[Paper](https://arxiv.org/abs/2203.13055)] ***Mar 2022***
+    
+   Li Siyao, Weijiang Yu, Tianpei Gu, Chunze Lin, Quan Wang, Chen Qian, Chen Change Loy, Ziwei Liu 
+    
 * *FCSF-TABS: two-stage abstractive summarization with fact-aware reinforced content selection and fusion* [[Paper](https://link.springer.com/article/10.1007/s00521-021-06880-0)]
 * *RLAS-BIABC: A Reinforcement Learning-Based Answer Selection Using the BERT Model Boosted by an Improved ABC Algorithm* [[Paper](https://dl.acm.org/doi/abs/10.1155/2022/7839840)]
 * *Reward Modeling for Mitigating Toxicity in Transformer-based Language Models* [[Paper](https://arxiv.org/abs/2202.09662)]
