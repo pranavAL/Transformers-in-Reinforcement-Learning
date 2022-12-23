@@ -64,8 +64,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ## Reward Learning
-* *AdvTranSafemer: Robust Policy Learning via Transformer and Adversarial Attack* [[Paper](https://dataspace.princeton.edu/handle/88435/dsp01gx41mn07b)]
-* *SURF: Semantic-level Unsupervised Reward Function for Machine Translation* [[Paper](https://aclanthology.org/2022.naacl-main.334/)]
+ 
 
 ---
 
@@ -150,6 +149,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 ### Text Audio and Vision
 * *Emotion Aware Reinforcement Network for Visual Storytelling* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_3)]
+* *SURF: Semantic-level Unsupervised Reward Function for Machine Translation* [[Paper](https://aclanthology.org/2022.naacl-main.334/)]
 * *GenTUS: Simulating User Behaviour and Language in Task-oriented Dialogues with Generative Transformers* [[Paper](https://arxiv.org/abs/2208.10817)]
 * *Towards Reinforcement Learning for Pivot-based Neural Machine Translation with Non-autoregressive Transformer* [[Paper](https://arxiv.org/abs/2109.13097)]
 * *Selective Token Generation for Few-shot Natural Language Generation* [[Paper](https://aclanthology.org/2022.coling-1.510.pdf)]
