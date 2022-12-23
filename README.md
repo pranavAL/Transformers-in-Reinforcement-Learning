@@ -64,6 +64,9 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ## Reward Learning
+* *Comparing BERT-based Reward Functions for Deep Reinforcement Learning in Machine Translation* [[Paper](https://aclanthology.org/2022.wat-1.2.pdf)] ***Oct 2022***
+
+   Yuki Nakatani, Tomoyuki Kajiwara, Takashi Ninomiya
  
 
 ---
