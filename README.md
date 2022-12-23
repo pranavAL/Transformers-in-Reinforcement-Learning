@@ -34,7 +34,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *StARformer: Transformer with State-Action-Reward Representations for Visual Reinforcement Learning* [[Paper](https://arxiv.org/pdf/2110.06206.pdf)]
 * *Multi-granularity scenarios understanding network for trajectory prediction* [[Paper](https://link.springer.com/article/10.1007/s40747-022-00834-2)]
 * *One for All: One-stage Referring Expression Comprehension with Dynamic Reasoning* [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222012899)]
-* *Relational Graph Reasoning Transformer for Image Captioning* [[Paper](https://ieeexplore.ieee.org/document/9859926)]
 * *The Sensory Neuron as a Transformer: Permutation-Invariant NeuralNetworks for Reinforcement Learning* [[Paper](https://arxiv.org/abs/2109.02869)]
 * *Efficient Spatiotemporal Transformer for Robotic Reinforcement Learning* [[Paper](https://ieeexplore.ieee.org/document/9807399)]
 * *Learning to Navigate in Interactive Environments with the Transformer-based Memory* [[Paper](https://embodied-ai.org/papers/2022/24.pdf)]
