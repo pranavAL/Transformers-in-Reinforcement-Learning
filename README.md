@@ -18,7 +18,6 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Medical](#medical)
      * [Text Audio and Vision](#text-audio-vision)
      * [Edge and Cloud Computing](#edge-and-cloud-computing)
-     * [Routing](#routing)
      * [Combinatorial Optimization](#combinatorial-optimzation)
      * [Floorplanner](#floorplanner)
      * [Environment](#environment)
@@ -200,14 +199,16 @@ The list of papers are divided into multiple categories as elaborated below taki
    Yanbo Xu, Jiakun Zhao 
 
 ---
-### Routing
+### Combinatorial Optimzation
+* *Attention-Based Learning for Combinatorial Optimization* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)] ***May 2022***
+
+   Carson Smith 
+
 * *A Deep Reinforcement Learning Algorithm Using A New Graph Transformer Model for Routing Problems* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16075-2_26)] ***Sept 2022***
 
    Yang Wang, Zhibin Chen
 ---
-### Combinatorial Optimzation
-* *Attention-Based Learning for Combinatorial Optimization* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/144893/Smith-smithcj-meng-eecs-2022-thesis.pdf?sequence=1&isAllowed=y)]
----
+
 ### Floorplanner
 * *Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding* [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539220)]
 ---
