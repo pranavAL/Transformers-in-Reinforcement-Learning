@@ -176,9 +176,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Transformer with Prior Language Knowledge for Image Captioning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_4)]
 * *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)]
 * *Adversarial Conversational Shaping for Intelligent Agents* [[Paper](https://neurips2021-nlp.github.io/papers/13/CameraReady/ENLSP_final_submission.pdf)]
-* *AN RL APPROACH FOR ABSA USING TRANSFORMERS* [[Paper](https://ieeexplore.ieee.org/document/9776915)]
-
-
 
 
 
