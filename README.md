@@ -209,12 +209,30 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ### Environment
-* *Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology* [[Paper](https://arxiv.org/abs/2203.13375)]
-* *Confidence Estimation Transformer for Long-term Renewable Energy Forecasting in Reinforcement Learning-based Power Grid Dispatching* [[Paper](https://arxiv.org/abs/2204.04612)]
-* *A Hybrid Data-Driven Method for Low-Carbon Economic Energy Management Strategy in Electricity-Gas Coupled Energy Systems Based on Transformer Network and Deep Reinforcement Learning* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4089060)]
-* *Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer* [[Paper](https://arxiv.org/abs/2206.03721)]
-* *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)]
-* *Toward Smart Multizone HVAC Control by Combining Context-Aware System and Deep Reinforcement Learning* [[Paper](https://ieeexplore.ieee.org/document/9776508)]
+* *Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology* [[Paper](https://arxiv.org/abs/2203.13375)] ***Mar 2022***
+
+   Yusuf Nasir, Louis J. Durlofsky
+   
+* *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)] ***Mar 2022***
+
+   Hyunwook Park, Minsu Kim, Seongguk Kim, Keunwoo Kim, Haeyeon Kim, Taein Shin, Keeyoung Son, Boogyo Sim, Subin Kim, Seungtaek Jeong, Chulsoon Hwang,      Joungho Kim   
+   
+* *Confidence Estimation Transformer for Long-term Renewable Energy Forecasting in Reinforcement Learning-based Power Grid Dispatching* [[Paper](https://arxiv.org/abs/2204.04612)] ***Apr 2022***
+
+   Xinhang Li, Zihao Li, Nan Yang, Zheng Yuan, Qinwen Wang, Yiying Yang, Yupeng Huang, Xuri Song, Lei Li, Lin Zhang
+   
+* *A Hybrid Data-Driven Method for Low-Carbon Economic Energy Management Strategy in Electricity-Gas Coupled Energy Systems Based on Transformer Network and Deep Reinforcement Learning* [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4089060)] ***Apr 2022***
+
+   Bin Zhang, Weihao Hu, Xiao Xu, Zhenyuan Zhang, Zhe Chen
+   
+* *Stabilizing Voltage in Power Distribution Networks via Multi-Agent Reinforcement Learning with Transformer* [[Paper](https://arxiv.org/abs/2206.03721)] ***Jun 2022***
+
+   Minrui Wang, Mingxiao Feng, Wengang Zhou, Houqiang Li
+    
+   
+* *Toward Smart Multizone HVAC Control by Combining Context-Aware System and Deep Reinforcement Learning* [[Paper](https://ieeexplore.ieee.org/document/9776508)] ***May 2022***
+
+   Xiangtian Deng, Yi Zhang, Yi Zhang, He Qi
 ---
 ### Scheduling
 * *Transformer-Based Reinforcement Learning for Pickup and Delivery Problems With Late Penalties* [[Paper](https://ieeexplore.ieee.org/document/9847118)]
