@@ -19,7 +19,6 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Text Audio and Vision](#text-audio-vision)
      * [Edge and Cloud Computing](#edge-and-cloud-computing)
      * [Combinatorial Optimization](#combinatorial-optimzation)
-     * [Floorplanner](#floorplanner)
      * [Environment](#environment)
      * [Scheduling](#scheduling)
      * [Query Optimization](#query-optimization)
@@ -209,9 +208,6 @@ The list of papers are divided into multiple categories as elaborated below taki
    Yang Wang, Zhibin Chen
 ---
 
-### Floorplanner
-* *Generalizable Floorplanner through Corner Block List Representation and Hypergraph Embedding* [[Paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539220)]
----
 ### Environment
 * *Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology* [[Paper](https://arxiv.org/abs/2203.13375)]
 * *Confidence Estimation Transformer for Long-term Renewable Energy Forecasting in Reinforcement Learning-based Power Grid Dispatching* [[Paper](https://arxiv.org/abs/2204.04612)]
