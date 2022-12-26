@@ -24,7 +24,6 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Query Optimization](#query-optimization)
      * [Trading](#trading)
      * [Anomaly Detection](#anomaly-detection)
-     * [Mathematical Reasoning](#mathematical-reasoning)
      * [Hyperparameter Optimzation](#hyperparameter-optimzation)
 ---
 
@@ -257,14 +256,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Transformer approaches on hyper-parameter optimization and anomaly detection with applications in stream tuning* [[Paper](https://dspace.uevora.pt/rdpc/handle/10174/31068)]
 ---
 
-### Mathematical Reasoning
-   
-* *Simplifying Polylogarithms with Machine Learning* [[Paper](https://arxiv.org/abs/2206.04115)
-] ***Jun 2022***
-
-   Aurélien Dersy, Matthew D. Schwartz, Xiaoyuan Zhang 
-   
----
 ### Hyperparameter Optimzation
 * *AME: Attention and Memory Enhancement in Hyper-Parameter Optimization* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)] ***June 2022***
 
