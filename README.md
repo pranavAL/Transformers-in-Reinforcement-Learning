@@ -258,15 +258,12 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ### Scientific Discovery
-
-* *Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.11718)] ***Apr 2022***
-    
-   Juan Manuel Parrilla-Gutierrez
    
 * *Simplifying Polylogarithms with Machine Learning* [[Paper](https://arxiv.org/abs/2206.04115)
 ] ***Jun 2022***
 
    Aurélien Dersy, Matthew D. Schwartz, Xiaoyuan Zhang 
+   
 ---
 ### Hyperparameter Optimzation
 * *AME: Attention and Memory Enhancement in Hyper-Parameter Optimization* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_AME_Attention_and_Memory_Enhancement_in_Hyper-Parameter_Optimization_CVPR_2022_paper.pdf)] ***June 2022***
