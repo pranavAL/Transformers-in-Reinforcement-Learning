@@ -250,11 +250,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 ### Information Retrieval
 
-* *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)] ***Mar 2022***
-
-   Zhixin Ma, Jiaxin Wu, Zhijian Hou, Chong-Wah Ngo 
-   
-
 * *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)] ***Apr 2022***
 
    Vishal Sharma, Curtis Dyreson
