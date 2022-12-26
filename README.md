@@ -249,11 +249,25 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 ---
 ### Query Optimization
-* *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)]
-* *Query-based summarization using reinforcement learning and transformer model* [[Paper](https://opus.uleth.ca/handle/10133/5664)]
-* *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)]
-* *Boosting Search Engines with Interactive Agents* [[Paper](https://arxiv.org/abs/2109.00527)]
-* *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)]
+
+* *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)] ***Mar 2022***
+
+   Zhixin Ma, Jiaxin Wu, Zhijian Hou, Chong-Wah Ngo 
+   
+
+* *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)] ***Apr 2022***
+
+   Vishal Sharma, Curtis Dyreson
+      
+   
+* *Boosting Search Engines with Interactive Agents* [[Paper](https://arxiv.org/abs/2109.00527)] ***Jun 2022***
+
+   Leonard Adolphs, Benjamin Boerschinger, Christian Buck, Michelle Chen Huebscher, Massimiliano Ciaramita, Lasse Espeholt, Thomas Hofmann, Yannic  Kilcher, Sascha Rothe, Pier Giuseppe Sessa, Lierni Sestorain Saralegui 
+    
+* *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)] ***Jul 2022***
+
+   Artem Mikhaylov, Nina S. Mazyavkina, Mikhail Salnikov, Ilya Trofimov, Fu Qiang, Evgeny Burnaev 
+       
 ---
 ### Trading
 * *Relation-Aware Transformer for Portfolio Policy Learning* [[Paper](https://dl.acm.org/doi/abs/10.5555/3491440.3492081)] ***July 2020***
