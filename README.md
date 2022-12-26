@@ -21,7 +21,6 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Combinatorial Optimization](#combinatorial-optimzation)
      * [Environment](#environment)
      * [Scheduling](#scheduling)
-     * [Information Retrieval](#information-retrieval)
      * [Trading](#trading)
      * [Hyperparameter Optimzation](#hyperparameter-optimzation)
 ---
@@ -246,17 +245,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)] ***Aug 2022***
 
    Andriy Mazayev, Faroq Al-Tam, Noélia Correia 
-
----
-### Information Retrieval      
-   
-* *Boosting Search Engines with Interactive Agents* [[Paper](https://arxiv.org/abs/2109.00527)] ***Jun 2022***
-
-   Leonard Adolphs, Benjamin Boerschinger, Christian Buck, Michelle Chen Huebscher, Massimiliano Ciaramita, Lasse Espeholt, Thomas Hofmann, Yannic  Kilcher, Sascha Rothe, Pier Giuseppe Sessa, Lierni Sestorain Saralegui 
-    
-* *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)] ***Jul 2022***
-
-   Artem Mikhaylov, Nina S. Mazyavkina, Mikhail Salnikov, Ilya Trofimov, Fu Qiang, Evgeny Burnaev 
        
 ---
 ### Trading
