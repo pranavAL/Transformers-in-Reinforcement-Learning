@@ -230,10 +230,23 @@ The list of papers are divided into multiple categories as elaborated below taki
    Xiangtian Deng, Yi Zhang, Yi Zhang, He Qi
 ---
 ### Scheduling
-* *Transformer-Based Reinforcement Learning for Pickup and Delivery Problems With Late Penalties* [[Paper](https://ieeexplore.ieee.org/document/9847118)]
-* *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)]
-* *An End-to-End Deep Reinforcement Learning Approach for Job Shop Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9776116)]
-* *A Deep Reinforcement Learning Framework Based on an Attention Mechanism and Disjunctive Graph Embedding for the Job-Shop Scheduling Problem* [[Paper](https://ieeexplore.ieee.org/document/9757835)] 
+
+* *A Deep Reinforcement Learning Framework Based on an Attention Mechanism and Disjunctive Graph Embedding for the Job-Shop Scheduling Problem* [[Paper](https://ieeexplore.ieee.org/document/9757835)] ***Apr 2022***
+
+   Ruiqi Chen, Wenxin Li, Hongbing Yang
+
+* *An End-to-End Deep Reinforcement Learning Approach for Job Shop Scheduling* [[Paper](https://ieeexplore.ieee.org/document/9776116)] ***May 2022***
+
+   Linlin Zhao, Weiming Shen, Chunjiang Zhang, Kunkun Peng 
+
+* *Transformer-Based Reinforcement Learning for Pickup and Delivery Problems With Late Penalties* [[Paper](https://ieeexplore.ieee.org/document/9847118)] ***Aug 2022***
+
+   Ke Zhang, Xi Lin, Meng Li 
+   
+* *Attention-based model and deep reinforcement learning for distribution of event processing tasks* [[Paper](https://www.sciencedirect.com/science/article/pii/S2542660522000580)] ***Aug 2022***
+
+   Andriy Mazayev, Faroq Al-Tam, Noélia Correia 
+
 ---
 ### Query Optimzation
 * *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)]
