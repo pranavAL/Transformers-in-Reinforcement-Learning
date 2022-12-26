@@ -21,7 +21,7 @@ The list of papers are divided into multiple categories as elaborated below taki
      * [Combinatorial Optimization](#combinatorial-optimzation)
      * [Environment](#environment)
      * [Scheduling](#scheduling)
-     * [Query Optimization](#query-optimization)
+     * [Information Retrieval](#information-retrieval)
      * [Trading](#trading)
      * [Hyperparameter Optimzation](#hyperparameter-optimzation)
 ---
@@ -248,7 +248,7 @@ The list of papers are divided into multiple categories as elaborated below taki
    Andriy Mazayev, Faroq Al-Tam, Noélia Correia 
 
 ---
-### Query Optimization
+### Information Retrieval
 
 * *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)] ***Mar 2022***
 
