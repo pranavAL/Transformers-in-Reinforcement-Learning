@@ -248,12 +248,7 @@ The list of papers are divided into multiple categories as elaborated below taki
    Andriy Mazayev, Faroq Al-Tam, Noélia Correia 
 
 ---
-### Information Retrieval
-
-* *Indexer++: workload-aware online index tuning with transformers and reinforcement learning* [[Paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507691)] ***Apr 2022***
-
-   Vishal Sharma, Curtis Dyreson
-      
+### Information Retrieval      
    
 * *Boosting Search Engines with Interactive Agents* [[Paper](https://arxiv.org/abs/2109.00527)] ***Jun 2022***
 
