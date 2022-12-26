@@ -258,10 +258,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ### Scientific Discovery
-* *Proving Theorems using Incremental Learning and Hindsight Experience Replay* [[Paper](https://arxiv.org/abs/2112.10664)] ***Dec 2021***
 
-   Eser Aygün, Laurent Orseau, Ankit Anand, Xavier Glorot, Vlad Firoiu, Lei M. Zhang, Doina Precup, Shibl Mourad
-   
 * *Predicting Real-time Scientific Experiments Using Transformer models and Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.11718)] ***Apr 2022***
     
    Juan Manuel Parrilla-Gutierrez
