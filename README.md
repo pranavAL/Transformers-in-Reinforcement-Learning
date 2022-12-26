@@ -248,7 +248,7 @@ The list of papers are divided into multiple categories as elaborated below taki
    Andriy Mazayev, Faroq Al-Tam, Noélia Correia 
 
 ---
-### Query Optimzation
+### Query Optimization
 * *Learned Query Optimizers: Evaluation and Improvement* [[Paper](https://ieeexplore.ieee.org/document/9828027)]
 * *Query-based summarization using reinforcement learning and transformer model* [[Paper](https://opus.uleth.ca/handle/10133/5664)]
 * *Reinforcement Learning-Based Interactive Video Search* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-98355-0_53)]
