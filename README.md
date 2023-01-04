@@ -82,12 +82,34 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ## World Model
-* *TransDreamer: Reinforcement Learning with Transformer World Models* [[Paper](https://arxiv.org/abs/2202.09481)]
-* *Transformers are Sample Efficient World Models* [[Paper](https://arxiv.org/abs/2209.00588)]
-* *A model-based approach to meta-Reinforcement Learning: Transformers and tree search* [[Paper](https://arxiv.org/abs/2208.11535)]
-* *Masked World Models for Visual Control* [[Paper](https://arxiv.org/abs/2206.14244)]
-* *Improving Sample Efficiency of Value Based Models Using Attention and Vision Transformers* [[Paper](https://arxiv.org/abs/2202.00710)]
-* *Dreaming with Transformers* [[Paper](https://issuu.com/mit-undergrad-research-journal/docs/murj_vol_41_published/s/12826904)]
+
+* *Improving Sample Efficiency of Value Based Models Using Attention and Vision Transformers* [[Paper](https://arxiv.org/abs/2202.00710)] ***Feb 2022***
+
+   Amir Ardalan Kalantari, Mohammad Amini, Sarath Chandar, Doina Precup
+   
+* *Dreaming with Transformers* [[Paper]([https://issuu.com/mit-undergrad-research-journal/docs/murj_vol_41_published/s/12826904](http://aaai-rlg.mlanctot.info/papers/AAAI22-RLG_paper_24.pdf)] ***Feb 2022***
+
+   Catherine Zeng, Jordan Docter, Alexander Amini, Igor Gilitschenski, Ramin Hasani and Daniela Rus 
+   
+* *TransDreamer: Reinforcement Learning with Transformer World Models* [[Paper](https://arxiv.org/abs/2202.09481)] ***Feb 2022***
+
+   Chang Chen, Yi-Fu Wu, Jaesik Yoon, Sungjin Ahn
+   
+* *A model-based approach to meta-Reinforcement Learning: Transformers and tree search* [[Paper](https://arxiv.org/abs/2208.11535)] ***Aug 2022***
+
+   Brieuc Pinon, Jean-Charles Delvenne, Raphaël Jungers    
+   
+* *Transformers are Sample Efficient World Models* [[Paper](https://arxiv.org/abs/2209.00588)] ***Sep 2022***
+
+   Vincent Micheli, Eloi Alonso, François Fleuret
+   
+* *Masked World Models for Visual Control* [[Paper](https://arxiv.org/abs/2206.14244)] ***Nov 2022***
+
+   Younggyo Seo, Danijar Hafner, Hao Liu, Fangchen Liu, Stephen James, Kimin Lee, Pieter Abbeel
+   
+* *Transformers-Based World Models Are Happy With 100k Interactions* [[Paper](https://openreview.net/pdf?id=TdBaDGCpjly)] ***Nov 2022***
+
+   Anonymous authors
 
 
 
