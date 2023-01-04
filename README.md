@@ -109,8 +109,7 @@ The list of papers are divided into multiple categories as elaborated below taki
    
 * *Transformers-Based World Models Are Happy With 100k Interactions* [[Paper](https://openreview.net/pdf?id=TdBaDGCpjly)] ***Nov 2022***
 
-   Anonymous authors
-
+   Jan Robine, Jan_Robine, Marc Höftmann, Tobias Uelwer, Stefan Harmeling
 
 
 ---
