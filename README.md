@@ -28,24 +28,55 @@ The list of papers are divided into multiple categories as elaborated below taki
 ## Representation Learning
 * *StARformer: Transformer with State-Action-Reward Representations for Visual Reinforcement Learning* [[Paper](https://arxiv.org/pdf/2110.06206.pdf)] ***July 2022***
 
-   - Jinghuan Shang, Kumara Kahatapitiya, Xiang Li, Michael S. Ryoo
+   Jinghuan Shang, Kumara Kahatapitiya, Xiang Li, Michael S. Ryoo
 
-* *Multi-granularity scenarios understanding network for trajectory prediction* [[Paper](https://link.springer.com/article/10.1007/s40747-022-00834-2)]
-* *One for All: One-stage Referring Expression Comprehension with Dynamic Reasoning* [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222012899)]
-* *The Sensory Neuron as a Transformer: Permutation-Invariant NeuralNetworks for Reinforcement Learning* [[Paper](https://arxiv.org/abs/2109.02869)]
-* *Efficient Spatiotemporal Transformer for Robotic Reinforcement Learning* [[Paper](https://ieeexplore.ieee.org/document/9807399)]
-* *Learning to Navigate in Interactive Environments with the Transformer-based Memory* [[Paper](https://embodied-ai.org/papers/2022/24.pdf)]
-* *CtrlFormer: Learning Transferable State Representation for Visual Control via Transformer* [[Paper](https://arxiv.org/abs/2206.08883)]
-* *TVENet: Transformer-Based Visual Exploration Network for Mobile Robot in Unseen Environment* [[Paper](https://ieeexplore.ieee.org/document/9795177)]
-* *CoBERL: Contrastive BERT for Reinforcement Learning* [[Paper](https://arxiv.org/abs/2107.05431)]
-* *Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning* [[Paper](https://openreview.net/forum?id=fy_XRVHqly)]
-* *Unsupervised Learning of Temporal Abstractions with Slot-based Transformers* [[Paper](https://arxiv.org/abs/2203.13573)]
-* *My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control* [[Paper](https://arxiv.org/abs/2010.01856)]
-* *Relational Reasoning via Set Transformers: Provable Efficiency and Applications to MARL* [[Paper](https://arxiv.org/abs/2209.09845)]
+* *Multi-granularity scenarios understanding network for trajectory prediction* [[Paper](https://link.springer.com/article/10.1007/s40747-022-00834-2)] ***Aug 2022***
 
+   Biao Yang, Jicheng Yang, Rongrong Ni, Changchun Yang,  Xiaofeng Liu 
+   
+* *One for All: One-stage Referring Expression Comprehension with Dynamic Reasoning* [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222012899)] ***Oct 2022***
 
+   Zhipeng Zhang, Zhimin Wei, Zhongzhen Huang, Rui Niu, Peng Wang 
+   
+* *The Sensory Neuron as a Transformer: Permutation-Invariant NeuralNetworks for Reinforcement Learning* [[Paper](https://arxiv.org/abs/2109.02869)] ***Sept 2021***
 
+   Yujin Tang, David Ha
+   
+* *Efficient Spatiotemporal Transformer for Robotic Reinforcement Learning* [[Paper](https://ieeexplore.ieee.org/document/9807399)] ***June 2022***
 
+   Yiming Yang, Dengpeng Xing, Bo Xu 
+   
+* *Learning to Navigate in Interactive Environments with the Transformer-based Memory* [[Paper](https://embodied-ai.org/papers/2022/24.pdf)] ***June 2022***
+
+   Weiyuan Li, Ruoxin Hong, Jiwei Shen, Yue Lu
+   
+* *CtrlFormer: Learning Transferable State Representation for Visual Control via Transformer* [[Paper](https://arxiv.org/abs/2206.08883)] ***June 2022***
+
+   Yao Mu, Shoufa Chen, Mingyu Ding, Jianyu Chen, Runjian Chen, Ping Luo
+   
+* *TVENet: Transformer-Based Visual Exploration Network for Mobile Robot in Unseen Environment* [[Paper](https://ieeexplore.ieee.org/document/9795177)] ***June 2022***
+
+   Tianyao Zhang, Xiaoguang Hu, Jin Xiao, Guofeng Zhang 
+   
+* *CoBERL: Contrastive BERT for Reinforcement Learning* [[Paper](https://arxiv.org/abs/2107.05431)] ***Feb 2022***
+
+   Andrea Banino, Adrià Puidomenech Badia, Jacob Walker, Tim Scholtes, Jovana Mitrovic, Charles Blundell
+   
+* *Structure-Aware Transformer Policy for Inhomogeneous Multi-Task Reinforcement Learning* [[Paper](https://openreview.net/forum?id=fy_XRVHqly)] ***Mar 2022***
+
+   Sunghoon Hong, Deunsol Yoon, Kee-Eung Kim
+   
+* *Unsupervised Learning of Temporal Abstractions with Slot-based Transformers* [[Paper](https://arxiv.org/abs/2203.13573)] ***Nov 2022***
+
+   Anand Gopalakrishnan, Kazuki Irie, Jürgen Schmidhuber, Sjoerd van Steenkiste
+   
+* *My Body is a Cage: the Role of Morphology in Graph-Based Incompatible Control* [[Paper](https://arxiv.org/abs/2010.01856)] ***Apr 2021***
+
+   Vitaly Kurin, Maximilian Igl, Tim Rocktäschel, Wendelin Boehmer, Shimon Whiteson
+   
+* *Relational Reasoning via Set Transformers: Provable Efficiency and Applications to MARL* [[Paper](https://arxiv.org/abs/2209.09845)] ***Oct 2022***
+
+   Fengzhuo Zhang, Boyi Liu, Kaixin Wang, Vincent Y. F. Tan, Zhuoran Yang, Zhaoran Wang 
 
 ---
 
