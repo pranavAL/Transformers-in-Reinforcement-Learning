@@ -26,7 +26,10 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ## Representation Learning
-* *StARformer: Transformer with State-Action-Reward Representations for Visual Reinforcement Learning* [[Paper](https://arxiv.org/pdf/2110.06206.pdf)]
+* *StARformer: Transformer with State-Action-Reward Representations for Visual Reinforcement Learning* [[Paper](https://arxiv.org/pdf/2110.06206.pdf)] ***July 2022***
+
+   - Jinghuan Shang, Kumara Kahatapitiya, Xiang Li, Michael S. Ryoo
+
 * *Multi-granularity scenarios understanding network for trajectory prediction* [[Paper](https://link.springer.com/article/10.1007/s40747-022-00834-2)]
 * *One for All: One-stage Referring Expression Comprehension with Dynamic Reasoning* [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222012899)]
 * *The Sensory Neuron as a Transformer: Permutation-Invariant NeuralNetworks for Reinforcement Learning* [[Paper](https://arxiv.org/abs/2109.02869)]
