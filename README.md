@@ -202,7 +202,10 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 ---
 ### Text Audio and Vision
-* *Emotion Aware Reinforcement Network for Visual Storytelling* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_3)]
+* *Emotion Aware Reinforcement Network for Visual Storytelling* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_3)] ***Sept 2022***
+
+Xin Li, Hanqing Cai, Tianling Jiang, Chunping Liu & Yi Ji
+
 * *SURF: Semantic-level Unsupervised Reward Function for Machine Translation* [[Paper](https://aclanthology.org/2022.naacl-main.334/)]
 * *GenTUS: Simulating User Behaviour and Language in Task-oriented Dialogues with Generative Transformers* [[Paper](https://arxiv.org/abs/2208.10817)]
 * *Towards Reinforcement Learning for Pivot-based Neural Machine Translation with Non-autoregressive Transformer* [[Paper](https://arxiv.org/abs/2109.13097)]
