@@ -258,10 +258,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 
    Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
    
-* *REMOTE: Reinforced Motion Transformation Network for Semi-supervised 2D Pose Estimation in Videos* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20089/version/18386/19848)] ***Jun 2022***
-
-   Xianzheng Ma, Hossein Rahmani, Zhipeng Fan, Bin Yang, Jun Chen, Jun Liu 
-   
 * *Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning* [[Paper](https://arxiv.org/abs/2112.08593)] ***Dec 2021***
 
    Amal Alabdulkarim, Winston Li, Lara J. Martin, Mark O. Riedl 
@@ -284,12 +280,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Multi-Modal Instruction based Reinforcement Learning using MoME Transformer* [[Paper](https://www.techrxiv.org/articles/preprint/Multi-Modal_Instruction_based_Reinforcement_Learning_using_MoME_Transformer/19566040)] ***Apr 2022***
 
    Avish Kadakia, Sabah Mohammed
-   
-* *Transformer with Prior Language Knowledge for Image Captioning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-92270-2_4)] ***Dec 2021***
-
-   Daisong Yan, Wenxin Yu, Zhiqiang Zhang, Jun Gong
-
-  
+     
 * *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)] ***Oct 2022***
 
    Christian Geishauser, Carel van Niekerk, Hsien-chin Lin, Nurul Lubis, Michael Heck, Shutong Feng, Milica Gašić
