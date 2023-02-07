@@ -156,7 +156,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 
    Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, Haifeng Zhang, Jun Wang, Bo Xu 
 
-  * *Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning* [[Paper](https://arxiv.org/abs/2203.07413)] ***Mar 2022***
+ * *Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning* [[Paper](https://arxiv.org/abs/2203.07413)] ***Mar 2022***
 
    Qinjie Lin, Han Liu, Biswa Sengupta  
    
