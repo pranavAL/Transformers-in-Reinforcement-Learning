@@ -198,19 +198,47 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 ---
 ### Medical
-* *RL Based Unsupervised Video Summarization Framework for Ultrasound Imaging* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16902-1_3)]
-* *SIG-Former: monocular surgical instruction generation with transformers* [[Paper](https://link.springer.com/article/10.1007/s11548-022-02718-9)]
-* *Transformer-based Objective-reinforced Generative Adversarial Network to Generate Desired Molecules* [[Paper](https://www.ijcai.org/proceedings/2022/539)]
-* *Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning* [[Paper](https://www.nature.com/articles/s42256-021-00403-1)]
-* *Abstract LB151: Deep learning - based protein therapeutics design to treat HER2+ cancers* [[Paper](https://aacrjournals.org/cancerres/article/82/12_Supplement/LB151/701119/Abstract-LB151-Deep-learning-based-protein)]
-* *DrugEx v3: Scaffold-Constrained Drug Design with Graph Transformer-based Reinforcement Learning* [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/61aa8b58bc299c0b30887f80)]
-* *DxFormer: A Decoupled Automatic Diagnostic System Based on Decoder-Encoder Transformer with Dense Symptom Representations* [[Paper](https://arxiv.org/pdf/2205.03755.pdf)]
-* *Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework* [[Paper](https://arxiv.org/abs/2203.05756)]
-* *Deep Reinforcement Learning and Docking Simulations for autonomous molecule generation in de novo Drug Design* [[Paper](https://dl.acm.org/doi/10.1145/3469877.3497694)]
-* *Transformer-Based Generative Model Accelerating the Development of Novel BRAF Inhibitors* [[Paper](https://pubs.acs.org/doi/10.1021/acsomega.1c05145)]
 
+ * *Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning* [[Paper](https://www.nature.com/articles/s42256-021-00403-1)] ***Oct 2021***
 
+    Jike Wang, Chang-Yu Hsieh, Mingyang Wang, Xiaorui Wang, Zhenxing Wu, Dejun Jiang, Benben Liao, Xujun Zhang, Bo Yang, Qiaojun He, Dongsheng Cao, Xi Chen, Tingjun Hou   
+    
+* *Deep Reinforcement Learning and Docking Simulations for autonomous molecule generation in de novo Drug Design* [[Paper](https://dl.acm.org/doi/10.1145/3469877.3497694)] ***Dec 2021***
 
+   Qian Wang, Hao Liu, Xiaotong Hu
+  
+* *Transformer-Based Generative Model Accelerating the Development of Novel BRAF Inhibitors* [[Paper](https://pubs.acs.org/doi/10.1021/acsomega.1c05145)] ***Dec 2021***
+
+   Lijuan Yang, Guanghui Yang, Zhitong Bing, Yuan Tian, Yuzhen Niu, Liang Huang, Lei Yang
+   
+* *DrugEx v3: Scaffold-Constrained Drug Design with Graph Transformer-based Reinforcement Learning* [[Paper](https://chemrxiv.org/engage/chemrxiv/article-details/61aa8b58bc299c0b30887f80)] ***Dec 2021***
+
+    Xuhan Liu, Kai Ye, Herman W. T. van Vlijmen, Adriaan P. IJzerman, Gerard J. P. van Westen 
+
+* *Active Phase-Encode Selection for Slice-Specific Fast MR Scanning Using a Transformer-Based Deep Reinforcement Learning Framework* [[Paper](https://arxiv.org/abs/2203.05756)] ***Mar 2022***
+
+    Yiming Liu, Yanwei Pang, Ruiqi Jin, Zhenchang Wang    
+    
+* *Abstract LB151: Deep learning - based protein therapeutics design to treat HER2+ cancers* [[Paper](https://aacrjournals.org/cancerres/article/82/12_Supplement/LB151/701119/Abstract-LB151-Deep-learning-based-protein)] ***June 2022***
+
+   Ziwei Liang; Tom Murray; Max Bluestone; Chris Zoumadakis; Luke Martin; Alexey Vlasenko; Jeffrey LaFrence; John Lazar; Matthias Denecke; David Longo
+
+* *SIG-Former: monocular surgical instruction generation with transformers* [[Paper](https://link.springer.com/article/10.1007/s11548-022-02718-9)] ***July 2022***
+
+    Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang
+    
+* *Transformer-based Objective-reinforced Generative Adversarial Network to Generate Desired Molecules* [[Paper](https://www.ijcai.org/proceedings/2022/539)] ***July 2022***
+
+    Chen Li, Chikashige Yamanaka, Kazuma Kaitoh, Yoshihiro Yamanishi   
+
+* *RL Based Unsupervised Video Summarization Framework for Ultrasound Imaging* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-16902-1_3)] ***Sept 2022***
+
+   Roshan P. Mathews, Mahesh Raveendranatha Panicker, Abhilash R. Hareendranathan, Yale Tung Chen, Jacob L. Jaremko, Brian Buchanan, Kiran Vishnu Narayan, Kesavadas Chandrasekharan , Greeta Mathews
+    
+* *DxFormer: A Decoupled Automatic Diagnostic System Based on Decoder-Encoder Transformer with Dense Symptom Representations* [[Paper](https://arxiv.org/pdf/2205.03755.pdf)] ***Dec 2022***
+
+    Wei Chen, Cheng Zhong, Jiajie Peng, Zhongyu Wei
+    
 ---
 ### Text Audio and Vision
 * *Towards Reinforcement Learning for Pivot-based Neural Machine Translation with Non-autoregressive Transformer* [[Paper](https://arxiv.org/abs/2109.13097)] ***Sept 2021***
