@@ -213,6 +213,62 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 ---
 ### Text Audio and Vision
+* *Towards Reinforcement Learning for Pivot-based Neural Machine Translation with Non-autoregressive Transformer* [[Paper](https://arxiv.org/abs/2109.13097)] ***Sept 2021***
+
+   Evgeniia Tokarchuk, Jan Rosendahl, Weiyue Wang, Pavel Petrushkov, Tomer Lancewicki, Shahram Khadivi, Hermann Ney
+   
+* *Corrective Guidance and Learning for Dialogue Management* [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482333)] ***Oct 2021***
+
+   Mahdin Rohmatillah, Jen-Tzung Chien    
+   
+* *Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning* [[Paper](https://arxiv.org/abs/2112.08593)] ***Dec 2021***
+
+   Amal Alabdulkarim, Winston Li, Lara J. Martin, Mark O. Riedl 
+   
+* *Adversarial Conversational Shaping for Intelligent Agents* [[Paper](https://neurips2021-nlp.github.io/papers/13/CameraReady/ENLSP_final_submission.pdf)] ***Dec 2021***
+
+   Piotr Tarasiewicz, Sultan Kenjeyev, Ilana Sebag, Shehab Alshehabi 
+   
+* *FCSF-TABS: two-stage abstractive summarization with fact-aware reinforced content selection and fusion* [[Paper](https://link.springer.com/article/10.1007/s00521-021-06880-0)] ***Jan 2022***
+
+   Mengli Zhang, Gang Zhou, Wanting Yu, Wenfen Liu, Ningbo Huang,  Ze Yu    
+   
+* *Audio Embeddings Help to Learn Better Dialogue Policies* [[Paper](https://ieeexplore.ieee.org/document/9688296)] ***Feb 2022***
+
+   Asier López Zorrilla, M. Inés Torres, Heriberto Cuayáhuitl  
+
+* *Reward Modeling for Mitigating Toxicity in Transformer-based Language Models* [[Paper](https://arxiv.org/abs/2202.09662)] ***Feb 2022***
+
+   Farshid Faal, Ketra Schmitt, Jia Yuan Yu
+   
+* *Active Audio-Visual Separation of Dynamic Sound Sources* [[Paper](https://arxiv.org/abs/2202.00850)] ***Feb 2022***
+
+   Sagnik Majumder, Kristen Grauman   
+   
+* *Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory* [[Paper](https://arxiv.org/abs/2203.13055)] ***Mar 2022***
+    
+   Li Siyao, Weijiang Yu, Tianpei Gu, Chunze Lin, Quan Wang, Chen Qian, Chen Change Loy, Ziwei Liu    
+   
+* *Multi-Modal Instruction based Reinforcement Learning using MoME Transformer* [[Paper](https://www.techrxiv.org/articles/preprint/Multi-Modal_Instruction_based_Reinforcement_Learning_using_MoME_Transformer/19566040)] ***Apr 2022***
+
+   Avish Kadakia, Sabah Mohammed  
+   
+* *Meta Policy Learning for Cold-Start Conversational Recommendation* [[Paper](https://arxiv.org/abs/2205.11788)] ***May 2022***
+
+   Zhendong Chu, Hongning Wang, Yun Xiao, Bo Long, Lingfei Wu 
+   
+* *SILVER-BULLET-3D AT MANISKILL 2021: LEARNING-FROM-DEMONSTRATIONS AND HEURISTIC RULE-BASED METHODS FOR OBJECT MANIPULATION* [[Paper](https://openreview.net/pdf?id=rNhxaETVybc)] ***Jun 2022***
+
+   Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
+      
+* *TF-SOD: a novel transformer framework for salient object detection* [[Paper](https://link.springer.com/article/10.1007/s00521-022-07069-9)] ***July 2022***
+    
+   Yunzhou Zhang, Zhenyu Wang,  Yan Liu, Zhuo Wang, Sonya Coleman, Dermot Kerr    
+   
+* *Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness* [[Paper](https://aclanthology.org/2022.naacl-main.120/)] ***July 2022***
+
+   Yun-Zhu Song, Yi-Syuan Chen, Hong-Han Shuai   
+   
 * *Emotion Aware Reinforcement Network for Visual Storytelling* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-15931-2_3)] ***Sept 2022***
 
    Xin Li, Hanqing Cai, Tianling Jiang, Chunping Liu,  Yi Ji
@@ -224,10 +280,14 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *GenTUS: Simulating User Behaviour and Language in Task-oriented Dialogues with Generative Transformers* [[Paper](https://arxiv.org/abs/2208.10817)] ***Sept 2022***
 
    Hsien-chin Lin, Christian Geishauser, Shutong Feng, Nurul Lubis, Carel van Niekerk, Michael Heck, Milica Gasic 
-   
-* *Towards Reinforcement Learning for Pivot-based Neural Machine Translation with Non-autoregressive Transformer* [[Paper](https://arxiv.org/abs/2109.13097)] ***Sept 2021***
 
-   Evgeniia Tokarchuk, Jan Rosendahl, Weiyue Wang, Pavel Petrushkov, Tomer Lancewicki, Shahram Khadivi, Hermann Ney 
+* *History Compression via Language Models in Reinforcement Learning* [[Paper](https://proceedings.mlr.press/v162/paischer22a.html)] ***Sept 2022***
+
+   Fabian Paischer, Thomas Adler, Vihang Patil, Angela Bitto-Nemling, Markus Holzleitner, Sebastian Lehner, Hamid Eghbal-Zadeh, Sepp Hochreiter
+      
+* *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)] ***Oct 2022***
+
+   Christian Geishauser, Carel van Niekerk, Hsien-chin Lin, Nurul Lubis, Michael Heck, Shutong Feng, Milica Gašić  
    
 * *Selective Token Generation for Few-shot Natural Language Generation* [[Paper](https://aclanthology.org/2022.coling-1.510.pdf)] ***Oct 2022***
 
@@ -236,72 +296,11 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Efficient Unsupervised Sentence Compression by Fine-tuning Transformers with Reinforcement Learning* [[Paper](https://arxiv.org/abs/2205.08221)] ***Nov 2022***
 
    Demian Ghalandari, Chris Hokamp, Georgiana Ifrim 
-   
-* *History Compression via Language Models in Reinforcement Learning* [[Paper](https://proceedings.mlr.press/v162/paischer22a.html)] ***Sept 2022***
-
-   Fabian Paischer, Thomas Adler, Vihang Patil, Angela Bitto-Nemling, Markus Holzleitner, Sebastian Lehner, Hamid Eghbal-Zadeh, Sepp Hochreiter
-   
-* *Meta Policy Learning for Cold-Start Conversational Recommendation* [[Paper](https://arxiv.org/abs/2205.11788)] ***May 2022***
-
-   Zhendong Chu, Hongning Wang, Yun Xiao, Bo Long, Lingfei Wu
-   
-* *Improving Multi-Document Summarization through Referenced Flexible Extraction with Credit-Awareness* [[Paper](https://aclanthology.org/2022.naacl-main.120/)] ***July 2022***
-
-   Yun-Zhu Song, Yi-Syuan Chen, Hong-Han Shuai
-   
-* *Audio Embeddings Help to Learn Better Dialogue Policies* [[Paper](https://ieeexplore.ieee.org/document/9688296)] ***Feb 2022***
-
-   Asier López Zorrilla, M. Inés Torres, Heriberto Cuayáhuitl 
-   
-* *Corrective Guidance and Learning for Dialogue Management* [[Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482333)] ***Oct 2021***
-
-   Mahdin Rohmatillah, Jen-Tzung Chien 
-   
-* *Active Audio-Visual Separation of Dynamic Sound Sources* [[Paper](https://arxiv.org/abs/2202.00850)] ***Feb 2022***
-
-   Sagnik Majumder, Kristen Grauman
-   
-* *TF-SOD: a novel transformer framework for salient object detection* [[Paper](https://link.springer.com/article/10.1007/s00521-022-07069-9)] ***July 2022***
-    
-   Yunzhou Zhang, Zhenyu Wang,  Yan Liu, Zhuo Wang, Sonya Coleman, Dermot Kerr 
-   
-* *SILVER-BULLET-3D AT MANISKILL 2021: LEARNING-FROM-DEMONSTRATIONS AND HEURISTIC RULE-BASED METHODS FOR OBJECT MANIPULATION* [[Paper](https://openreview.net/pdf?id=rNhxaETVybc)] ***Jun 2022***
-
-   Yingwei Pan, Yehao Li, Yiheng Zhang, Qi Cai, Fuchen Long, Zhaofan Qiu, Ting Yao, Tao Mei
-   
-* *Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning* [[Paper](https://arxiv.org/abs/2112.08593)] ***Dec 2021***
-
-   Amal Alabdulkarim, Winston Li, Lara J. Martin, Mark O. Riedl 
-* *Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory* [[Paper](https://arxiv.org/abs/2203.13055)] ***Mar 2022***
-    
-   Li Siyao, Weijiang Yu, Tianpei Gu, Chunze Lin, Quan Wang, Chen Qian, Chen Change Loy, Ziwei Liu 
-    
-* *FCSF-TABS: two-stage abstractive summarization with fact-aware reinforced content selection and fusion* [[Paper](https://link.springer.com/article/10.1007/s00521-021-06880-0)] ***Jan 2022***
-
-   Mengli Zhang, Gang Zhou, Wanting Yu, Wenfen Liu, Ningbo Huang,  Ze Yu 
-   
+     
 * *RLAS-BIABC: A Reinforcement Learning-Based Answer Selection Using the BERT Model Boosted by an Improved ABC Algorithm* [[Paper](https://dl.acm.org/doi/abs/10.1155/2022/7839840)] ***Jan 2023***
 
    Hamid Gharagozlou, Javad Mohammadzadeh, Azam Bastanfard, Saeed Shiry Ghidary
    
-* *Reward Modeling for Mitigating Toxicity in Transformer-based Language Models* [[Paper](https://arxiv.org/abs/2202.09662)] ***Feb 2022***
-
-   Farshid Faal, Ketra Schmitt, Jia Yuan Yu 
-   
-* *Multi-Modal Instruction based Reinforcement Learning using MoME Transformer* [[Paper](https://www.techrxiv.org/articles/preprint/Multi-Modal_Instruction_based_Reinforcement_Learning_using_MoME_Transformer/19566040)] ***Apr 2022***
-
-   Avish Kadakia, Sabah Mohammed
-     
-* *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)] ***Oct 2022***
-
-   Christian Geishauser, Carel van Niekerk, Hsien-chin Lin, Nurul Lubis, Michael Heck, Shutong Feng, Milica Gašić
-   
-* *Adversarial Conversational Shaping for Intelligent Agents* [[Paper](https://neurips2021-nlp.github.io/papers/13/CameraReady/ENLSP_final_submission.pdf)] ***Dec 2021***
-
-   Piotr Tarasiewicz, Sultan Kenjeyev, Ilana Sebag, Shehab Alshehabi 
-
-
-
 ---
 ### Edge and Cloud Computing
 * *Exploring reward efficacy in traffic management using deep reinforcement learning in intelligent transportation system* [[Paper](https://onlinelibrary.wiley.com/doi/full/10.4218/etrij.2021-0404)] ***April 2022***
