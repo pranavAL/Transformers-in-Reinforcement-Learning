@@ -123,39 +123,106 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ## Policy Leaning
-* *Transformer-Based Deep Reinforcement Learning in VizDoom* [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-15168-2_9.pdf)]
-* *Offline Reinforcement Learning as One Big Sequence Modeling Problem* [[Paper](https://arxiv.org/abs/2106.02039)]
-* *Decision Transformer: Reinforcement Learning via Sequence Modeling* [[Paper](https://arxiv.org/abs/2106.01345)]
-* *Multi-Game Decision Transformers* [[Paper](https://arxiv.org/abs/2205.15241)]
-* *Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks* [[Paper](https://arxiv.org/abs/2112.02845)]
-* *Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL* [[Paper](https://arxiv.org/abs/2209.03993)]
-* *Prompting Decision Transformer for Few-Shot Policy Generalization* [[Paper](https://mxu34.github.io/PromptDT/)]
-* *Bootstrapped Transformer for Offline Reinforcement Learning* [[Paper](https://arxiv.org/abs/2206.08569)]
-* *UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers* [[Paper](https://arxiv.org/abs/2101.08001)]
-* *Relational Reasoning via Set Transformers: Provable Efficiency and Applications to MARL* [[Paper](https://arxiv.org/abs/2209.09845)]
-* *Transformer-based Value Function Decomposition for Cooperative Multi-agent Reinforcement Learning in StarCraft* [[Paper](https://arxiv.org/abs/2208.07298)]
-* *Pretraining for Language Conditioned Imitation with Transformers* [[Paper](https://openreview.net/forum?id=eCPCn25gat)]
-* *Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks* [[Paper](https://arxiv.org/abs/2112.02845)]
-* *Transformers are Meta-Reinforcement Learners* [[Paper](https://arxiv.org/abs/2206.06614)]
-* *Learning Efficient Multi-agent Cooperative Visual Exploration* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_29)]
-* *Transfer learning with causal counterfactual reasoning in Decision Transformers* [[Paper](https://arxiv.org/abs/2110.14355)]
-* *Transformer with Memory Replay* [[Paper](https://arxiv.org/abs/2205.09869)]
-* *Online Decision Transformer* [[Paper](https://arxiv.org/abs/2202.05607)]
-* *Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning* [[Paper](https://arxiv.org/abs/2203.07413)]
-* *Multi-Agent Reinforcement Learning is a Sequence Modeling Problem* [[Paper](https://arxiv.org/abs/2205.14953)]
-* *A Novel Deep Reinforcement Learning Based Stock Direction Prediction using Knowledge Graph and Community Aware Sentiments* [[Paper](https://arxiv.org/abs/2107.00931)]
-* *You Can't Count on Luck: Why Decision Transformers and RvS Fail in Stochastic Environments* [[Paper](https://arxiv.org/abs/2205.15967)]
-* *Deep Transformer Q-Networks for Partially Observable Reinforcement Learning* [[Paper](https://arxiv.org/abs/2206.01078)]
-* *CubeTR: Learning to Solve the Rubik's Cube using Transformers* [[Paper](https://openreview.net/forum?id=wGLGG4918oc)]
-* *FedFormer: Contextual Federation with Attention in Reinforcement Learning* [[Paper](FedFormer: Contextual Federation with Attention in Reinforcement Learning)]
 
+* *UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers* [[Paper](https://arxiv.org/abs/2101.08001)] ***Feb 2021***
 
+   Siyi Hu, Fengda Zhu, Xiaojun Chang, Xiaodan Liang 
+   
+* *Offline Reinforcement Learning as One Big Sequence Modeling Problem* [[Paper](https://arxiv.org/abs/2106.02039)] ***Jun 2021***
 
+   Michael Janner, Qiyang Li, Sergey Levine
+   
+* *Decision Transformer: Reinforcement Learning via Sequence Modeling* [[Paper](https://arxiv.org/abs/2106.01345)] ***Jun 2021***
 
+   Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas, Igor Mordatch
+   
+* *A Novel Deep Reinforcement Learning Based Stock Direction Prediction using Knowledge Graph and Community Aware Sentiments* [[Paper](https://arxiv.org/abs/2107.00931)] ***July 2021***
 
+   Anil Berk Altuner, Zeynep Hilal Kilimci   
+   
+* *Pretraining for Language Conditioned Imitation with Transformers* [[Paper](https://openreview.net/forum?id=eCPCn25gat)] ***Sept 2021***
 
+   Aaron L Putterman, Kevin Lu, Igor Mordatch, Pieter Abbeel 
+   
+* *CubeTR: Learning to Solve the Rubik's Cube using Transformers* [[Paper](https://openreview.net/forum?id=wGLGG4918oc)] ***Sept 2021***
 
+   Mustafa Ebrahim Chasmai    
+  
+* *Transfer learning with causal counterfactual reasoning in Decision Transformers* [[Paper](https://arxiv.org/abs/2110.14355)] ***Oct 2021***
 
+   Ayman Boustati, Hana Chockler, Daniel C. McNamee    
+   
+* *Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks* [[Paper](https://arxiv.org/abs/2112.02845)] ***Dec 2021***
+
+   Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, Haifeng Zhang, Jun Wang, Bo Xu 
+
+  * *Switch Trajectory Transformer with Distributional Value Approximation for Multi-Task Reinforcement Learning* [[Paper](https://arxiv.org/abs/2203.07413)] ***Mar 2022***
+
+   Qinjie Lin, Han Liu, Biswa Sengupta  
+   
+* *FedFormer: Contextual Federation with Attention in Reinforcement Learning* [[Paper](https://arxiv.org/abs/2205.13697)] ***May 2022***
+
+   Liam Hebert, Lukasz Golab, Pascal Poupart, Robin Cohen   
+
+* *Transformer with Memory Replay* [[Paper](https://arxiv.org/abs/2205.09869)] ***May 2022***
+
+   Rui Liu, Barzan Mozafari
+   
+* *Online Decision Transformer* [[Paper](https://arxiv.org/abs/2202.05607)] ***July 2022***
+
+   Qinqing Zheng, Amy Zhang, Aditya Grover   
+
+* *Multi-Game Decision Transformers* [[Paper](https://arxiv.org/abs/2205.15241)] ***May 2022***
+
+   Kuang-Huei Lee, Ofir Nachum, Mengjiao Yang, Lisa Lee, Daniel Freeman, Winnie Xu, Sergio Guadarrama, Ian Fischer, Eric Jang, Henryk Michalewski, Igor Mordatch
+ 
+ * *Prompting Decision Transformer for Few-Shot Policy Generalization* [[Paper](https://mxu34.github.io/PromptDT/)] ***June 2022***
+
+   Mengdi Xu, Yikang Shen, Shun Zhang, Yuchen Lu, Ding Zhao, Joshua B. Tenenbaum, Chuang Gan
+   
+* *Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks* [[Paper](https://arxiv.org/abs/2112.02845)] ***Jun 2022***
+
+   Linghui Meng, Muning Wen, Yaodong Yang, Chenyang Le, Xiyun Li, Weinan Zhang, Ying Wen, Haifeng Zhang, Jun Wang, Bo Xu  
+   
+* *Transformers are Meta-Reinforcement Learners* [[Paper](https://arxiv.org/abs/2206.06614)] ***June 2022***
+
+   Luckeciano C. Melo   
+
+* *Transformer-based Value Function Decomposition for Cooperative Multi-agent Reinforcement Learning in StarCraft* [[Paper](https://arxiv.org/abs/2208.07298)] ***Aug 2022***
+
+   Muhammad Junaid Khan, Syed Hammad Ahmed, Gita Sukthankar 
+   
+* *Transformer-Based Deep Reinforcement Learning in VizDoom* [[Paper](https://link.springer.com/content/pdf/10.1007/978-3-031-15168-2_9.pdf)] ***Aug 2022***
+
+   Vitalii Sopov, Ilya Makarov
+   
+* *Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL* [[Paper](https://arxiv.org/abs/2209.03993)] ***Oct 2022***
+
+   Taku Yamagata, Ahmed Khalil, Raul Santos-Rodriguez   
+   
+* *Bootstrapped Transformer for Offline Reinforcement Learning* [[Paper](https://arxiv.org/abs/2206.08569)] ***Oct 2022***
+
+   Kerong Wang, Hanye Zhao, Xufang Luo, Kan Ren, Weinan Zhang, Dongsheng Li  
+   
+ * *Learning Efficient Multi-agent Cooperative Visual Exploration* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_29)] ***Oct 2022***
+
+   Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu  
+   
+* *Relational Reasoning via Set Transformers: Provable Efficiency and Applications to MARL* [[Paper](https://arxiv.org/abs/2209.09845)] ***Oct 2022***
+
+   Fengzhuo Zhang, Boyi Liu, Kaixin Wang, Vincent Y. F. Tan, Zhuoran Yang, Zhaoran Wang
+
+* *Multi-Agent Reinforcement Learning is a Sequence Modeling Problem* [[Paper](https://arxiv.org/abs/2205.14953)] ***Oct 2022***
+
+   Muning Wen, Jakub Grudzien Kuba, Runji Lin, Weinan Zhang, Ying Wen, Jun Wang, Yaodong Yang
+   
+* *You Can't Count on Luck: Why Decision Transformers and RvS Fail in Stochastic Environments* [[Paper](https://arxiv.org/abs/2205.15967)] ***Nov 2022***
+
+   Keiran Paster, Sheila McIlraith, Jimmy Ba
+   
+* *Deep Transformer Q-Networks for Partially Observable Reinforcement Learning* [[Paper](https://arxiv.org/abs/2206.01078)] ***Nov 2022***
+
+   Kevin Esslinger, Robert Platt, Christopher Amato 
 
 ---
 
