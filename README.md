@@ -87,7 +87,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 
    Amir Ardalan Kalantari, Mohammad Amini, Sarath Chandar, Doina Precup
    
-* *Dreaming with Transformers* [[Paper]([https://issuu.com/mit-undergrad-research-journal/docs/murj_vol_41_published/s/12826904](http://aaai-rlg.mlanctot.info/papers/AAAI22-RLG_paper_24.pdf)] ***Feb 2022***
+* *Dreaming with Transformers* [[Paper](http://aaai-rlg.mlanctot.info/papers/AAAI22-RLG_paper_24.pdf)] ***Feb 2022***
 
    Catherine Zeng, Jordan Docter, Alexander Amini, Igor Gilitschenski, Ramin Hasani and Daniela Rus 
    
