@@ -160,17 +160,28 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 
 ## Training Strategy
-* *Stabilizing Transformers for Reinforcement Learning* [[Paper](https://arxiv.org/abs/1910.06764)]
-* *Semi-supervised Offline Reinforcement Learning with Pre-trained Decision Transformers* [[Paper](https://openreview.net/forum?id=fwJWhOxuzV9)]
-* *Can Wikipedia Help Offline Reinforcement Learning?* [[Paper](https://arxiv.org/abs/2201.12122)]
-* *Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels* [[Paper](https://arxiv.org/abs/2204.04905)]
+* *Stabilizing Transformers for Reinforcement Learning* [[Paper](https://arxiv.org/abs/1910.06764)] ***Oct 2019***
 
+   Emilio Parisotto, H. Francis Song, Jack W. Rae, Razvan Pascanu, Caglar Gulcehre, Siddhant M. Jayakumar, Max Jaderberg, Raphael Lopez Kaufman, Aidan Clark, Seb Noury, Matthew M. Botvinick, Nicolas Heess, Raia Hadsell
+   
+* *Semi-supervised Offline Reinforcement Learning with Pre-trained Decision Transformers* [[Paper](https://openreview.net/forum?id=fwJWhOxuzV9)] ***Sept 2021***
 
+   Catherine Cang, Kourosh Hakhamaneshi, Ryan Rudes, Igor Mordatch, Aravind Rajeswaran, Pieter Abbeel, Michael Laskin
+   
+* *Can Wikipedia Help Offline Reinforcement Learning?* [[Paper](https://arxiv.org/abs/2201.12122)] ***Jan 2022***
+
+   Machel Reid, Yutaro Yamada, Shixiang Shane Gu
+   
+* *Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels* [[Paper](https://arxiv.org/abs/2204.04905)] ***Apr 2022***
+
+   Tianxin Tao, Daniele Reda, Michiel van de Panne
 
 ---
 
 ## Explainability
-* *ATTEXPLAINER: Explain Transformer via Attention by Reinforcement Learning* [[Paper](https://www.ijcai.org/proceedings/2022/0102.pdf)]
+* *ATTEXPLAINER: Explain Transformer via Attention by Reinforcement Learning* [[Paper](https://www.ijcai.org/proceedings/2022/0102.pdf)] ***July 2022***
+
+   Runliang Niu, Zhepei Wei, Yan Wang, Qi Wang 
 
 ---
 
