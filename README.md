@@ -187,15 +187,39 @@ The list of papers are divided into multiple categories as elaborated below taki
 
 ## Applications
 ### Robotics
-* *INTRAFORCE: Intra-Cluster Reinforced Social Transformer for Trajectory Prediction* [[Paper](https://ieeexplore.ieee.org/document/9941547)]
-* *Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving* [[Paper](https://arxiv.org/abs/2208.12263)]
-* *TransNav: spatial sequential transformer network for visual navigation* [[Paper](https://academic.oup.com/jcde/article/9/5/1866/6679563)] 
-* *Vision Transformer for Learning Driving Policies in Complex Multi-Agent Environments* [[Paper](https://arxiv.org/abs/2109.06514)]
-* *Object Memory Transformer for Object Goal Navigation* [[Paper](https://arxiv.org/abs/2203.14708)]
-* *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps* [[Paper](https://arxiv.org/abs/2203.16910)]
-* *Reinforced Structured State-Evolution for Vision-Language Navigation* [[Paper](https://arxiv.org/pdf/2204.09280.pdf)]
-* *Neurosymbolic Learning for Robust and Reliable Intelligent Systems* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/143249/Inala-jinala-PhD-EECS-2022-thesis.pdf?sequence=1&isAllowed=y)]
 
+* *Vision Transformer for Learning Driving Policies in Complex Multi-Agent Environments* [[Paper](https://arxiv.org/abs/2109.06514)] ***Sept 2021***
+
+   Eshagh Kargar, Ville Kyrki
+   
+* *Neurosymbolic Learning for Robust and Reliable Intelligent Systems* [[Paper](https://dspace.mit.edu/bitstream/handle/1721.1/143249/Inala-jinala-PhD-EECS-2022-thesis.pdf?sequence=1&isAllowed=y)] ***Feb 2022***
+
+   Jeevana Priya Inala  
+   
+* *Object Memory Transformer for Object Goal Navigation* [[Paper](https://arxiv.org/abs/2203.14708)] ***Mar 2022***
+
+   Rui Fukushima, Kei Ota, Asako Kanezaki, Yoko Sasaki, Yusuke Yoshiyasu
+   
+* *End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps* [[Paper](https://arxiv.org/abs/2203.16910)] ***Mar 2022***
+
+   Ke Guo, Wenxi Liu, Jia Pan   
+   
+* *Reinforced Structured State-Evolution for Vision-Language Navigation* [[Paper](https://arxiv.org/pdf/2204.09280.pdf)] ***May 2022***
+
+   Jinyu Chen,Chen Gao,Erli Meng, Qiong Zhang, Si Liu   
+   
+* *INTRAFORCE: Intra-Cluster Reinforced Social Transformer for Trajectory Prediction* [[Paper](https://ieeexplore.ieee.org/document/9941547)] ***Oct 2022***
+
+   Negar Emami; Antonio Di Maio; Torsten Braun
+   
+* *Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving* [[Paper](https://arxiv.org/abs/2208.12263)]***Aug 2022***
+
+   Haochen Liu, Zhiyu Huang, Xiaoyu Mo, Chen Lv
+   
+* *TransNav: spatial sequential transformer network for visual navigation* [[Paper](https://academic.oup.com/jcde/article/9/5/1866/6679563)] ***Aug 2022***
+
+   Kang Zhou, Huyin Zhang, Fei Li
+   
 ---
 ### Medical
 
