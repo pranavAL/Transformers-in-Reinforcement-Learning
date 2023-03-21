@@ -310,10 +310,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 
     Yiming Liu, Yanwei Pang, Ruiqi Jin, Zhenchang Wang    
     
-* *Abstract LB151: Deep learning - based protein therapeutics design to treat HER2+ cancers* [[Paper](https://aacrjournals.org/cancerres/article/82/12_Supplement/LB151/701119/Abstract-LB151-Deep-learning-based-protein)] ***June 2022***
-
-   Ziwei Liang; Tom Murray; Max Bluestone; Chris Zoumadakis; Luke Martin; Alexey Vlasenko; Jeffrey LaFrence; John Lazar; Matthias Denecke; David Longo
-
 * *SIG-Former: monocular surgical instruction generation with transformers* [[Paper](https://link.springer.com/article/10.1007/s11548-022-02718-9)] ***July 2022***
 
     Jinglu Zhang, Yinyu Nie, Jian Chang, Jian Jun Zhang
