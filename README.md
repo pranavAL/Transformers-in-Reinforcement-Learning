@@ -290,6 +290,11 @@ The list of papers are divided into multiple categories as elaborated below taki
 ---
 ### Medical
 
+
+* *Reinforced Transformer for Medical Image Captioning* [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-32692-0_77)] ***Oct 2019***
+
+    Yuxuan Xiong, Bo Du, Pingkun Yan 
+
  * *Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning* [[Paper](https://www.nature.com/articles/s42256-021-00403-1)] ***Oct 2021***
 
     Jike Wang, Chang-Yu Hsieh, Mingyang Wang, Xiaorui Wang, Zhenxing Wu, Dejun Jiang, Benben Liao, Xujun Zhang, Bo Yang, Qiaojun He, Dongsheng Cao, Xi Chen, Tingjun Hou   
