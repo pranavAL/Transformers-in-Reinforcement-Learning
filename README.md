@@ -295,6 +295,10 @@ The list of papers are divided into multiple categories as elaborated below taki
 
     Yuxuan Xiong, Bo Du, Pingkun Yan 
 
+* *Improving Factual Completeness and Consistency of Image-to-Text Radiology Report Generation* [[Paper](https://aclanthology.org/2021.naacl-main.416/)] ***June 2021***
+
+    Yasuhide Miura, Yuhao Zhang, Emily Tsai, Curtis Langlotz, Dan Jurafsky 
+
  * *Multi-constraint molecular generation based on conditional transformer, knowledge distillation and reinforcement learning* [[Paper](https://www.nature.com/articles/s42256-021-00403-1)] ***Oct 2021***
 
     Jike Wang, Chang-Yu Hsieh, Mingyang Wang, Xiaorui Wang, Zhenxing Wu, Dejun Jiang, Benben Liao, Xujun Zhang, Bo Yang, Qiaojun He, Dongsheng Cao, Xi Chen, Tingjun Hou   
