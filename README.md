@@ -70,10 +70,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *One for All: One-stage Referring Expression Comprehension with Dynamic Reasoning* [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222012899)] ***Oct 2022***
 
    Zhipeng Zhang, Zhimin Wei, Zhongzhen Huang, Rui Niu, Peng Wang 
-   
-* *Relational Reasoning via Set Transformers: Provable Efficiency and Applications to MARL* [[Paper](https://arxiv.org/abs/2209.09845)] ***Oct 2022***
-
-   Fengzhuo Zhang, Boyi Liu, Kaixin Wang, Vincent Y. F. Tan, Zhuoran Yang, Zhaoran Wang    
  
 * *Unsupervised Learning of Temporal Abstractions with Slot-based Transformers* [[Paper](https://arxiv.org/abs/2203.13573)] ***Nov 2022***
 
