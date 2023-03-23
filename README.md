@@ -74,10 +74,14 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Relational Reasoning via Set Transformers: Provable Efficiency and Applications to MARL* [[Paper](https://arxiv.org/abs/2209.09845)] ***Oct 2022***
 
    Fengzhuo Zhang, Boyi Liu, Kaixin Wang, Vincent Y. F. Tan, Zhuoran Yang, Zhaoran Wang    
+
+* *Learning Efficient Multi-agent Cooperative Visual Exploration* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_29)] ***Oct 2022***
+
+   Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu
   
 * *Unsupervised Learning of Temporal Abstractions with Slot-based Transformers* [[Paper](https://arxiv.org/abs/2203.13573)] ***Nov 2022***
 
-   Anand Gopalakrishnan, Kazuki Irie, Jürgen Schmidhuber, Sjoerd van Steenkiste
+   Anand Gopalakrishnan, Kazuki Irie, Jürgen Schmidhuber, Sjoerd van Steenkiste   
    
 ---
 
@@ -203,10 +207,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *Bootstrapped Transformer for Offline Reinforcement Learning* [[Paper](https://arxiv.org/abs/2206.08569)] ***Oct 2022***
 
    Kerong Wang, Hanye Zhao, Xufang Luo, Kan Ren, Weinan Zhang, Dongsheng Li  
-   
- * *Learning Efficient Multi-agent Cooperative Visual Exploration* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_29)] ***Oct 2022***
-
-   Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu  
    
 * *Relational Reasoning via Set Transformers: Provable Efficiency and Applications to MARL* [[Paper](https://arxiv.org/abs/2209.09845)] ***Oct 2022***
 
