@@ -450,11 +450,7 @@ The list of papers are divided into multiple categories as elaborated below taki
 ### Environment
 * *Deep reinforcement learning for optimal well control in subsurface systems with uncertain geology* [[Paper](https://arxiv.org/abs/2203.13375)] ***Mar 2022***
 
-   Yusuf Nasir, Louis J. Durlofsky
-   
-* *Transformer Network-based Reinforcement Learning Method for Power Distribution Network (PDN) Optimization of High Bandwidth Memory (HBM)* [[Paper](https://arxiv.org/abs/2203.15722)] ***Mar 2022***
-
-   Hyunwook Park, Minsu Kim, Seongguk Kim, Keunwoo Kim, Haeyeon Kim, Taein Shin, Keeyoung Son, Boogyo Sim, Subin Kim, Seungtaek Jeong, Chulsoon Hwang,      Joungho Kim   
+   Yusuf Nasir, Louis J. Durlofsky  
    
 * *Confidence Estimation Transformer for Long-term Renewable Energy Forecasting in Reinforcement Learning-based Power Grid Dispatching* [[Paper](https://arxiv.org/abs/2204.04612)] ***Apr 2022***
 
