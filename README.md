@@ -263,10 +263,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 
    Ke Guo, Wenxi Liu, Jia Pan   
    
-* *Reinforced Structured State-Evolution for Vision-Language Navigation* [[Paper](https://arxiv.org/pdf/2204.09280.pdf)] ***May 2022***
-
-   Jinyu Chen,Chen Gao,Erli Meng, Qiong Zhang, Si Liu   
-   
 * *Learning Efficient Multi-agent Cooperative Visual Exploration* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_29)] ***Oct 2022***
 
    Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu   
