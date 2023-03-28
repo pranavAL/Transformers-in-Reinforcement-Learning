@@ -267,10 +267,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 
    Jinyu Chen,Chen Gao,Erli Meng, Qiong Zhang, Si Liu   
    
-* *INTRAFORCE: Intra-Cluster Reinforced Social Transformer for Trajectory Prediction* [[Paper](https://ieeexplore.ieee.org/document/9941547)] ***Oct 2022***
-
-   Negar Emami; Antonio Di Maio; Torsten Braun
-   
 * *Learning Efficient Multi-agent Cooperative Visual Exploration* [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_29)] ***Oct 2022***
 
    Chao Yu, Xinyi Yang, Jiaxuan Gao, Huazhong Yang, Yu Wang, Yi Wu   
