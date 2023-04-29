@@ -392,10 +392,6 @@ The list of papers are divided into multiple categories as elaborated below taki
 * *GenTUS: Simulating User Behaviour and Language in Task-oriented Dialogues with Generative Transformers* [[Paper](https://arxiv.org/abs/2208.10817)] ***Sept 2022***
 
    Hsien-chin Lin, Christian Geishauser, Shutong Feng, Nurul Lubis, Carel van Niekerk, Michael Heck, Milica Gasic 
-
-* *History Compression via Language Models in Reinforcement Learning* [[Paper](https://proceedings.mlr.press/v162/paischer22a.html)] ***Sept 2022***
-
-   Fabian Paischer, Thomas Adler, Vihang Patil, Angela Bitto-Nemling, Markus Holzleitner, Sebastian Lehner, Hamid Eghbal-Zadeh, Sepp Hochreiter
       
 * *Dynamic Dialogue Policy for Continual Reinforcement Learning* [[Paper](https://arxiv.org/abs/2204.05928)] ***Oct 2022***
 
