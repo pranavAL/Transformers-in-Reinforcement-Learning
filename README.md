@@ -1,4 +1,4 @@
-# Transformers-for-Reinforcement-Learning
+# Transformers for Reinforcement Learning : A Survey
 
 This repo contains a detailed list of research papers using Transformers for Reinforcement Learning. 
 
