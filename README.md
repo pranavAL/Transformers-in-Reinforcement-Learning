@@ -1,6 +1,6 @@
-# Transformers for Reinforcement Learning : A Survey
+# Transformers in Reinforcement Learning: A Survey
 
-This repo contains a detailed list of research papers using Transformers for Reinforcement Learning. 
+This repo contains a detailed list of research papers using Transformers in Reinforcement Learning. 
 
 It is used for our survey paper [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/pdf/2307.05979.pdf)
 
