@@ -2,6 +2,19 @@
 
 This repo contains a detailed list of research papers using Transformers for Reinforcement Learning. 
 
+It is used for our survey paper [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/pdf/2307.05979.pdf)
+
+If you use it, please cite:
+
+```
+@article{agarwal2023transformers,
+  title={Transformers in Reinforcement Learning: A Survey},
+  author={Agarwal, Pranav and Rahman, Aamer Abdul and St-Charles, Pierre-Luc and Prince, Simon JD and Kahou, Samira Ebrahimi},
+  journal={arXiv preprint arXiv:2307.05979},
+  year={2023}
+}
+```
+
 The list of papers are divided into multiple categories as elaborated below taking into account the use of Transformers in the field of Reinforcement Learning.
 
 ---
